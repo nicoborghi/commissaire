@@ -617,20 +617,23 @@ L’organo tecnico preposto all’approvazione delle gare, qualora lo ritenga ne
 
 ## 10.0 CAMBIO RUOTA
 
-### 10.1 Gare Internazionali - Nazionali
-Il cambio ruota è obbligatorio nelle gare nazionali ed internazionali per tutte le categorie. Deve essere effettuato da almeno tre autovetture, con personale qualificato e ruote efficienti e sono obbligatorie almeno tre biciclette di scorta per autovettura, possibilmente di misura diversa. Il cambio ruota e/o bicicletta può essere effettuato anche dalle vetture sociali al seguito della gara e tra concorrenti della medesima squadra.
+### 10.1 Gare Nazionali (in linea)
+Il cambio ruota è obbligatorio per tutte le categorie. Deve essere effettuato da almeno tre autovetture, con personale qualificato e ruote efficienti e sono obbligatorie almeno tre biciclette di scorta per autovettura, possibilmente di misura diversa. Il cambio ruota e/o bicicletta può essere effettuato anche dalle vetture sociali al seguito della gara e tra concorrenti della medesima squadra.
 
-### 10.2 Gare Regionali
-Il cambio ruota è obbligatorio in tutte le categorie e deve essere effettuato da almeno due autovetture. Il cambio ruota e/o bicicletta può essere effettuato anche dalle vetture sociali al seguito della gara e tra concorrenti della medesima squadra. Nelle gare in criterium è ammesso il cambio ruota/bicicletta anche tra concorrenti della medesima squadra e da persone appiedate (solo nella zona di assistenza tecnica). Nelle gare in criterium, può essere prevista una zona di assistenza tecnica per cambio ruote/bicicletta.
+### 10.2 Gare Regionali  (in linea)
+Il cambio ruota è obbligatorio in tutte le categorie e deve essere effettuato da almeno due autovetture. Il cambio ruota e/o bicicletta può essere effettuato anche dalle vetture sociali al seguito della gara e tra concorrenti della medesima squadra.
 
-### 10.3 Prove di Campionato
-10.3.1 Nelle prove di campionato italiano e regionale, è consentito il cambio ruota e/o bicicletta fra concorrenti della medesima squadra. Il cambio ruota deve essere effettuato da almeno tre autovetture dotate di almeno tre biciclette ciascuna, di misure diverse. Il cambio ruota e/o bicicletta può essere effettuato anche dalle eventuali vetture sociali ammesse al seguito.
+### 10.3 Prove di Campionato (in linea)
+Nelle prove di campionato italiano e regionale, è consentito il cambio ruota e/o bicicletta fra concorrenti della medesima squadra. Il cambio ruota deve essere effettuato da almeno tre autovetture dotate di almeno tre biciclette ciascuna, di misure diverse. Il cambio ruota e/o bicicletta può essere effettuato anche dalle eventuali vetture sociali ammesse al seguito. 
 
 ### 10.4 Servizio cambio ruota con moto (ad esclusione delle gare in criterium)
-10.4.1 Nelle gare regionali, nazionali e internazionali, in linea ed a tappe, riservate alle categorie Elite/Under 23 - Under 23 - Under 21 - Juniores - Donne Elite - Donne Juniores, è consentito (in aggiunta alle vetture cambio ruote) l’uso di moto attrezzate per il servizio integrativo al “cambio ruote”. Tale servizio è facoltativo, e si svolge a discrezione del Direttore di Corsa, e deve essere effettuato da personale esperto. Detto servizio deve essere inserito nel Regolamento Speciale di corsa.
+10.4.1 Nelle gare regionali, nazionali, in linea ed a tappe, riservate alle categorie Elite/Under 23 - Under 23 - Under 21 - Juniores - Donne Elite - Donne Juniores, è consentito (in aggiunta alle vetture cambio ruote) l’uso di moto attrezzate per il servizio integrativo al “cambio ruote”. Tale servizio è facoltativo, e si svolge a discrezione del Direttore di Corsa, e deve essere effettuato da personale esperto. Detto servizio deve essere inserito nel Regolamento Speciale di corsa.
 
 10.4.2 Per la sicurezza e l’incolumità degli atleti, le moto “cambio ruota” non possono
 effettuare alcun tipo di rifornimento.
+
+### 10.5 Gare a criterium
+Nelle gare Regionali e Nazionali a Criterium, il servizio di cambio ruote è facoltativo. Nel caso venga previsto, il servizio cambio ruote/bicicletta deve essere effettuato da almeno due autovetture debitamente attrezzate. Nel caso in cui tale servizio non venga previsto, devono essere previste due zone adeguate di assistenza tecnica per cambio ruote/bicicletta, effettuato da persone appiedate. E' ammesso il cambio ruota/bicicletta anche tra concorrenti della medesima squadra. Non è ammesso il seguito delle vetture sociali. 
 
 
 ## 11.0 ATTIVITA’
