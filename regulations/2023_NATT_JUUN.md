@@ -315,7 +315,11 @@ Nelle giornate in cui è prevista una sola gara (regionale /nazionale/internazio
 
 Nelle giornate in cui sono previste due gare (regionali/nazionali/internazionali) ogni squadra potrà partecipare nelle gare regionali con un massimo di 9 atleti. Per le sole gare regionali, nelle giornate in cui sono previste 1 o 2 gare, viene inoltre data l’opportunità di concedere alla società organizzatrice di schierare al via 2 atleti in aggiunta a quelli previsti.
 
-Nel caso di gara regionale, se il numero di iscritti risulta inferiore ad 80, l’organizzatore in accordo con la STR potrà aumentare il numero massimo di atleti per società (fino ad un massimo di 12). È vietato stabilire un numero massimo di atleti partenti diverso tra società.
+Nel caso di gara regionale, se il numero di iscritti risulta inferiore ad 80, l’organizzatore in accordo con la STR potrà aumentare il numero massimo di atleti per società (fino ad un massimo di 12).
+
+Nelle giornate in cui è prevista una gara o due gare (regionale/nazionale/internazionale), per le sole gare regionali, se il numero di iscritti risulta inferiore a 200, l’organizzatore in accordo con la STR potrà aumentare pariteticamente il numero massimo di atleti per società (fino ad un massimo di 12), fermo restando il limite massimo di 200 atleti partenti. 
+
+È vietato stabilire un numero massimo di atleti partenti diverso tra società.
 
 ### 4.3 Tipo Pista
 Si possono organizzare riunioni tipo pista per le categorie: Juniores, Elite s.c. e Under 23, Donne juniores, Donne Elite e Donne Under 23, in tutti i giorni della settimana (ad esclusione di sabato, domenica e lunedì) e comunque non in concomitanza con riunioni su pista nell’ambito della stessa regione. Ogni riunione può comprendere, per ogni categoria prevista, una o più gare. Le gare si disputano con bicicletta da strada. Il chilometraggio delle corse a punti è il seguente: Juniores, Donne Elite e Donne Juniores 30; Elite s.c. e Under23 40.
