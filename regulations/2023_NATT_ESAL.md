@@ -121,7 +121,7 @@ L’organo tecnico preposto all’approvazione delle gare, qualora lo ritenga ne
 
 3.3.3 Riunione Tecnica. La riunione tecnica, indetta dal Direttore di Corsa, deve svolgersi almeno un’ora prima della partenza e l’orario stabilito deve essere indicato nel programma gara. Ogni società deve essere rappresentata dal Tecnico di Società TI2,TA2,TA3, da un proprio Dirigente regolarmente tesserato (componente del Consiglio Direttivo) o da un proprio socio di società regolarmente tesserato.
 
-3.3.4 Presentazione/Appello Squadre ed atleti. I partenti verranno confermati in occasione della verifica licenza. Viene introdotta la presentazione/appello dei team e degli atleti/e che deve terminare 10 prima della partenza. Si consiglia all’organizzatore di predisporre un ordine di presentazione con tempi imposti.
+3.3.4 Presentazione/Appello Squadre ed atleti (facoltativa a discrezione dell’organizzatore). I partenti verranno confermati in occasione della verifica licenza. Viene introdotta la presentazione/appello dei team e degli atleti/e che deve terminare 10 prima della partenza. Si consiglia all’organizzatore di predisporre un ordine di presentazione con tempi imposti. In occasione della verifica licenze, il Rappresentante della Squadra (Tecnico/Dirigente/Socio) dovrà sottoscrivere una dichiarazione attestante gli atleti che prenderanno il via. 
 
 3.3.5 Orari delle Gare. Nei mesi di giugno, luglio ed agosto, le gare agonistiche su strada devono svolgersi prevalentemente in mattinata, per concludersi, entro le ore 13:00. Se programmate nel pomeriggio, la partenza, compatibilmente con il rispetto delle autorizzazioni degli Enti preposti, non potrà avvenire prima delle ore 15 : 30.
 
