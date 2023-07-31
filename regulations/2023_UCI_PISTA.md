@@ -102,9 +102,7 @@
 - Omnium (come da paragrafo 16) 
 - Tempo race (come da paragrafo 18) 
 
-**Zona di sicurezza** 
-
-**3.1.012 - FCI 11** Durante tutte le prove su pista, eccetto Inseguimento a Squadre e Inseguimento Individuale, tutto il personale delle squadre deve rimanere all’interno della pista (fuori dalla zona di sicurezza e dalla pista stessa). Durante l’Inseguimento a Squadre e l’Inseguimento Individuale è ammesso nella zona di sicurezza solo un direttore sportivo per ciascuna squadra. Uno specifico addetto di una squadra potrà essere autorizzato all’accesso nella zona di sicurezza (es: il meccanico a seguito di una caduta) a discrezione dei Commissari. Il mancato rispetto di quanto sopra comporta l’applicazione dell’articolo 3.6.072. 
+**3.1.012 - FCI 11** Durante tutte le prove su pista, eccetto Inseguimento a Squadre e Inseguimento Individuale, tutto il personale delle squadre deve rimanere all’interno della pista (fuori dalla *zona di sicurezza* e dalla pista stessa). Durante l’Inseguimento a Squadre e l’Inseguimento Individuale è ammesso nella zona di sicurezza solo un direttore sportivo per ciascuna squadra. Uno specifico addetto di una squadra potrà essere autorizzato all’accesso nella zona di sicurezza (es: il meccanico a seguito di una caduta) a discrezione dei Commissari. Il mancato rispetto di quanto sopra comporta l’applicazione dell’articolo 3.6.072. 
 
 
 ## Capitolo 2: GARE SU PISTA
@@ -1173,7 +1171,7 @@ rm
 
 
 
-## 8: CALENDARIO
+## Capitolo 8: CALENDARIO
 
 **Generalità** 
 
