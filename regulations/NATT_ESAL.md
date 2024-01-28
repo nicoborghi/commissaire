@@ -6,7 +6,7 @@
 
 **Cat. Esordienti / Allievi / Donne Esordienti / Donne Allieve**
 
-# NORME ATTUATIVE Settore Strada 2023
+# NORME ATTUATIVE Settore Strada 2024
 
 - [1.0 CATEGORIE ESORDIENTI – ALLIEVI (Maschile e Femminile)](#10-categorie-esordienti-–-allievi-maschile-e-femminile)
 - [2.0 CLASSIFICAZIONE DELLE GARE](#20-classificazione-delle-gare)
@@ -49,7 +49,7 @@ Le gare sono classificate nella seguente tipologia:
 
 2.0.2 A Criterium: si disputano su circuiti unici, possibilmente pianeggianti e chiusi al traffico, ripetuti più volte, compresi tra i 2 ed i 5 chilometri, con traguardo unico finale.
 
-2.0.3 A Cronometro: si disputano in linea o in circuito. Possono essere individuali, a coppie ed a squadre di tre o più corridori.
+2.0.3 A Cronometro: si disputano in linea, in circuito, o nei velodromi. Possono essere individuali, a coppie ed a squadre di tre o più corridori.
 
 2.0.4 Tipo Pista: si disputano su strada, in circuiti pianeggianti e chiusi al traffico, della lunghezza compresa tra i 500 ed i 2000 metri. Vige il Regolamento Tecnico della Pista per le specialità consentite per ciascuna categoria. Vengono assegnati punti di valorizzazione e formazione tecnica come da tabella allegato 7 al RTAA
 
@@ -62,9 +62,11 @@ Le gare sono classificate nella seguente tipologia:
 | **Pos.** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
 | punti    | 10     | 9      | 8      | 7      | 6      | 5      | 4      | 3      | 2      | 1      |
 
-I punteggi di valorizzazione ed i relativi montepremi saranno assegnati tenendo conto esclusivamente della classifica finale.
+I punteggi di valorizzazione saranno assegnati ad ogni frazione ed alla classifica finale.
 
 Il rifornimento è consentito da persone appiedate per le sole bevande, a partire dal chilometro zero e termina a 5 km. dall’arrivo.
+
+2.0.6 Gare a Tappe per allievi maschile e femminili, vedi 4.4 delle seguenti norme
 
 ### 2.1 Classificazione per categoria:
 Le categorie dell’attività agonistica giovanile sono le seguenti:
@@ -79,9 +81,13 @@ Le categorie dell’attività agonistica giovanile sono le seguenti:
 | Esordienti 1°/2° anno (gara unica)       | 1.30   |
 | Donne Esordienti 1° anno                 | 1.31   |
 | Donne Esordienti 2° anno                 | 1.32   |
+| Gare a Tappe Allievi                     | 2.24   |
+| Gare a Tappe Donne Allieve               | 2.25   |
 
 ### 2.2 Montepremi
-Il C.F. ha dato la facoltà ai CC.RR. di decidere, per la sola attività regionale, qualsiasi modifica del montepremi. La tabella premi deve essere inserita nell’approvazione della gara su sistema informatico KSport alla voce “altro”
+Per tutte le gare il montepremi è da intendersi facoltativo (obbligatorio per i Campionati Italiani). Il montepremi riportato sul prospetto Premi e Tasse è fissato al lordo della ritenuta del 20% a titolo d'imposta, introdotta dal D. Lgs. 36/2021 art.36. Qualora l'organizzatore della gara intenda corrisponderlo agli atleti dovrà applicare le previste tabelle federali. Tale opzione dovrà essere annotata sul sistema informatico Ksport.
+
+Il C.F. ha inoltre dato la facoltà ai CC.RR. di decidere, per la sola attività regionale, qualsiasi modifica del montepremi. La tabella premi applicata deve essere inserita in fase di approvazione della gara sul sistema informatico KSport alla voce "Regolamento".
 
 ## 3.0 NORME GENERALI
 
@@ -99,6 +105,19 @@ Le iscrizioni devono chiudersi almeno 48 ore prima della partenza. Per la catego
 
 3.1.6 Ogni corridore, coppia o squadra, saranno seguiti, se richiesti, da un Giudice di gara con funzioni di Ispettore, a cui deve essere riservato un posto a bordo della vettura sociale al seguito dei concorrenti. Gli Ispettori, se richiesti dalla società organizzatrice, saranno designati dalla Commissione competente: l’onere è a carico della società organizzatrice. Per le gare inserite nel calendario nazionale, il numero degli eventuali ispettori sarà stabilito dalla CNGG, d’intesa con la STF: gli oneri degli Ispettori saranno a carico di chi li nomina.
 
+3.1.7 Per la categoria Allievi M/F è ammesso l’utilizzo di un sistema sicuro di comunicazione ed informazione (comunemente chiamato "auricolare") è autorizzato e può essere utilizzato alle seguenti condizioni:
+- vetture dei team al seguito della cronometro;
+- la potenza della ricetrasmittente utilizzata non supererà i 5 watt;
+- il raggio d'azione del sistema resterà confinato nello spazio occupato dalla corsa;
+- il suo utilizzo è riservato agli scambi tra corridori e direttore sportivo e tra corridori di una stessa squadra.
+- L'uso del sistema resta subordinato ad autorizzazioni legislative in materia, ad un uso ragionato e ragionevole nel rispetto dell'etica e del libero arbitrio del corridore.
+
+3.1.8 Nelle prove di Cronometro a squadre i detentori della maglia di campione italiano di Cronometro a Squadre hanno facoltà di indossare la relativa maglia.
+
+3.1.9 E' consentita la possibilità di organizzare gare a cronometro individuale all'interno di velodromi, con le stesse modalità delle gare a cronometro, per le categorie Esordienti 2° anno M/F e Allievi M/F con le seguenti distanze (la gara sarà inserita nel sistema informatico nel settore strada):
+- Esordienti M/F 2° Anno: Min. 3 Km - Max 5 Km
+- Allievi M/F: Min. 4 Km - Max 6 Km
+
 ### 3.2 Manifestazioni in più prove
 Possono essere organizzate manifestazioni o trofei articolati in più gare, disputate in giornate di gara diverse, con classifica finale, nel rispetto della seguente regolamentazione:
 
@@ -115,13 +134,13 @@ Possono essere organizzate manifestazioni o trofei articolati in più gare, disp
 ### 3.3 Approvazione Gare
 L’organo tecnico preposto all’approvazione delle gare, qualora lo ritenga necessario, ha la facoltà di respingere una gara o di modificarne il programma per motivi tecnici, purché tale decisione non sia in contrasto con le norme del RTAA della FCI. Le eventuali normative integrate dai CC.RR. devono essere pubblicate sull’organo ufficiale prima dell’inizio attività agonistica ed approvate dal CF per il tramite della STF. L’approvazione delle gare regionali deve avvenire, da parte della STR, minimo 30 gg. prima dell’inizio della stessa, per poi inoltrare alle autorità competenti la documentazione per il rilascio delle relative autorizzazioni. Le società organizzatrici di corse che partono o arrivano in località fuori dalla propria regione dovranno ottenere, tramite il proprio CR, il nulla osta del o dei CC.RR. competenti per territorio.
 
-3.3.1 Modalità iscrizioni on line gare regionali. Le iscrizioni devono essere fatte con il sistema informatico federale solo dalla società di appartenenza. Le iscrizioni vengono aperte 15 giorni prima lo svolgimento della gara e comunque solo nel momento cui la gara viene approvata. Le iscrizioni si chiudono 2 giorni prima della partenza della stessa. L’organizzatore non può intervenire a modificare il numero progressivo di iscrizione nel “fattore k”. L’eventuale cancellazione dell’iscrizione di un atleta può essere fatta solo con l’accordo della società organizzatrice, solo fino a 2 giorni prima dello svolgimento della gara. È facoltà dei CCRR concedere il diritto di iscrizione anticipata alle società della regione ed alle rappresentative regionali partecipanti all’evento. Viene garantita la partecipazione di diritto agli atleti tesserati dalla società organizzatrice della gara stessa.
+3.3.1 Modalità iscrizioni on line gare regionali. Le iscrizioni devono essere fatte con il sistema informatico federale solo dalla società di appartenenza. Le iscrizioni vengono aperte 15 giorni prima lo svolgimento della gara e comunque solo nel momento cui la gara viene approvata. Le iscrizioni si chiudono 2 giorni prima della partenza della stessa. Le iscrizioni si chiudono 3 giorni prima della partenza per le gare a cronometro. L’organizzatore non può intervenire a modificare il numero progressivo di iscrizione nel “fattore k”. L’eventuale cancellazione dell’iscrizione di un atleta può essere fatta solo con l’accordo della società organizzatrice, solo fino a 2 giorni prima dello svolgimento della gara (3 per la gara a cronometro). È facoltà dei CCRR concedere il diritto di iscrizione anticipata alle società della regione ed alle rappresentative regionali partecipanti all’evento. Viene garantita la partecipazione di diritto agli atleti tesserati dalla società organizzatrice della gara stessa.
 
 3.3.2 Verifica Licenze. La verifica licenze deve terminare un’ora prima della partenza e può essere effettuata dal Tecnico di Società TI2,TA2,TA3, da un proprio Dirigente regolarmente tesserato (componente del Consiglio Direttivo) o da un proprio socio di società regolarmente tesserato.
 
 3.3.3 Riunione Tecnica. La riunione tecnica, indetta dal Direttore di Corsa, deve svolgersi almeno un’ora prima della partenza e l’orario stabilito deve essere indicato nel programma gara. Ogni società deve essere rappresentata dal Tecnico di Società TI2,TA2,TA3, da un proprio Dirigente regolarmente tesserato (componente del Consiglio Direttivo) o da un proprio socio di società regolarmente tesserato.
 
-3.3.4 Presentazione/Appello Squadre ed atleti (facoltativa a discrezione dell’organizzatore). I partenti verranno confermati in occasione della verifica licenza. Viene introdotta la presentazione/appello dei team e degli atleti/e che deve terminare 10 prima della partenza. Si consiglia all’organizzatore di predisporre un ordine di presentazione con tempi imposti. In occasione della verifica licenze, il Rappresentante della Squadra (Tecnico/Dirigente/Socio) dovrà sottoscrivere una dichiarazione attestante gli atleti che prenderanno il via. 
+3.3.4 Presentazione/Appello Squadre ed atleti (facoltativa a discrezione dell’organizzatore). I partenti verranno confermati in occasione della verifica licenza. Viene introdotta la presentazione/appello dei team e degli atleti/e che deve terminare 10 prima della partenza. Si consiglia all’organizzatore di predisporre un ordine di presentazione con tempi imposti. In assenza della presentazione team/appello, in occasione della verifica licenze, il Rappresentante della Squadra (Tecnico/Dirigente/Socio) dovrà sottoscrivere una dichiarazione attestante gli atleti che prenderanno il via. 
 
 3.3.5 Orari delle Gare. Nei mesi di giugno, luglio ed agosto, le gare agonistiche su strada devono svolgersi prevalentemente in mattinata, per concludersi, entro le ore 13:00. Se programmate nel pomeriggio, la partenza, compatibilmente con il rispetto delle autorizzazioni degli Enti preposti, non potrà avvenire prima delle ore 15 : 30.
 
@@ -137,29 +156,29 @@ Salvo che nelle gare a cronometro, tutti i veicoli che precedono o seguono immed
 Sono concessi trasferimenti dalla partenza ufficiosa a quella ufficiale fino ad un massimo di 5 km.
 
 ### 3.7 Rifornimento
-Il rifornimento è consentito da persone appiedate per le sole bevande, a partire dal chilometro zero e termina a 5 km. dall’arrivo.
+Il rifornimento è consentito da persone appiedate per le sole bevande, a partire dal chilometro zero e termina a 5 km. dall’arrivo. Deve essere predisposta almeno una Green Zone dove gli atleti potranno liberarsi dei rifiuti e borracce. È possibile prevedere una zona di rifornimento fisso.
 
 ### 3.8 Tempo massimo
 Gare in linea ed in circuito: l’8% del tempo del vincitore.
 
 ### 3.9 Premiazioni
-3.9.1 Fermo restando quanto previsto dall’art. 2.7, i premi di gara, in denaro e in natura, devono essere liquidati al termine della manifestazione.
+3.9.1 Fermo restando quanto previsto dall’art. 2.7, i premi di gara, in denaro (ove previsti) e in natura, devono essere liquidati al termine della manifestazione.
 
 3.9.2 La Distinta Premi FCI, debitamente firmata dai corridori, deve essere consegnata al Presidente del Collegio di Giuria, entro 60 minuti dall’esposizione dell’ordine d’arrivo. Superato tale termine, sarà cura degli Organizzatori inviare la Distinta Premi al Giudice Sportivo competente.
 
 ### 3.10 Cambio ruote (modifica CF del 22/12/2022)
 Nelle gare regionali e interregionali, riservate alla cat. Esordienti m/f ed Allievi m/f, la società organizzatrice, in fase di approvazione del programma, può richiedere alla propria STR il servizio cambio ruote, che deve essere regolamentato nel modo seguente:
 
-- la società organizzatrice deve mettere a disposizione 2 autovetture ufficiali, munite
+- la società organizzatrice deve mettere a disposizione minimo 2 autovetture ufficiali, munite
 di bandierine gialle;
 - il cambio della ruota può essere effettuato solo dalle vetture cambio ruote;
 - nel programma approvato e sul sistema informatico nella sezione “Servizi e altre informazioni” nella sezione “Descrizione” deve essere indicato "Manifestazione ove è previsto il cambio ruota".
 - Nelle gare a criterium la presenza del servizio “Cambio Ruote” è demandata al Direttore di Corsa; è comunque ammesso il cambio ruote/biciclette da persone appiedate.
 - Non è ammesso il cambio ruota e/o bicicletta tra corridori.
-- Nelle prove di Campionato Italiano la società organizzatrice deve predisporre il servizio cambio ruote (2 autovetture ufficiali per il “Cambio Ruota”, con le modalità di cui sopra)
-- Nelle prove di Campionato Regionale la società organizzatrice può richiedere in fase di approvazione il servizio cambio ruote (2 autovetture ufficiali per il “Cambio Ruota”, con le modalità di cui sopra)
+- Nelle prove di Campionato Italiano la società organizzatrice deve predisporre il servizio cambio ruote (minimo 2 autovetture ufficiali per il “Cambio Ruota”, con le modalità di cui sopra)
+- Nelle prove di Campionato Regionale la società organizzatrice può richiedere in fase di approvazione il servizio cambio ruote (minimo 2 autovetture ufficiali per il “Cambio Ruota”, con le modalità di cui sopra)
 - Nelle prove di campionato Regionale ed italiano che si svolgono in circuito, la società organizzatrice potrà predisporre un posto fisso di rifornimento e di assistenza meccanica (per cambio ruota e/o bicicletta).
-In aggiunta è consentito il servizio di “Cambio Ruota” su moto, che deve essere richiesto alla STR. Detto servizio deve essere effettuato da personale esperto. Per la sicurezza e l’incolumità degli atleti, le moto “cambio ruota” non possono effettuare alcun tipo di rifornimento. Nelle prove a cronometro è autorizzato il cambio ruote e bicicletta da parte dell’ammiraglia al seguito.
+In aggiunta alle 2 vetture è consentito il servizio di “Cambio Ruota” su moto, che deve essere richiesto alla STR. Detto servizio deve essere effettuato da personale esperto. Per la sicurezza e l’incolumità degli atleti, le moto “cambio ruota” non possono effettuare alcun tipo di rifornimento. Nelle prove a cronometro è autorizzato il cambio ruote e bicicletta da parte dell’ammiraglia al seguito.
 
 ### 3.11 Materiali in uso
 3.11.1 Bicicletta. Le biciclette devono rispondere al criterio della sicurezza ed essere conformi a quanto stabilito in materia dalle norme UCI:
@@ -234,14 +253,28 @@ Dopo l'arrivo il Presidente di Giuria dovrà richiedere il controllo ai primi 5 
 ### 3.15 Punti di valorizzazione
 Vengono assegnati punti di addestramento e formazione tecnica sulla base di ogni ordine di arrivo di categoria. Vengono assegnati punti ai fini delle votazioni assembleari, come stabilito dallo Statuto, solo sull’ordine di arrivo generale.
 
+### 3.16 Tratti di strada sterrati
+Nelle categorie esordienti M/F non sono consentiti. Nelle categorie allievi M/F l’organizzatore che desideri includere tratti sterrati, fino ad un massimo del 5% del percorso della prova, dovrà informare il proprio CR al momento della richiesta di approvazione della gara. L’organizzatore dovrà fare quanto possibile per assicurare la sicurezza del percorso, del seguito così come il buon svolgimento della gara sotto l’aspetto sportivo e dell’equità tra i partecipanti.
+In particolare, l’organizzatore:
+- Dovrà fornire una descrizione dettagliata di tali sezioni (lunghezza, natura della pavimentazione, larghezza della carreggiata, pendenze di salite e discese );
+- Si assicurerà che il percorso sia sempre praticabile (condizioni meteo, ecc) con una bici tradizionale strada in conformità al Regolamento UCI;
+- Si assicurerà che il percorso sia in sicurezza (assicurando la manutenzione, la stabilità della superficie, avendo cura di posizionare protezioni e segnalazioni).
+
 ## 4.0 ATTIVITÀ CATEGORIE MASCHILI E FEMMINILI
 
 ### 4.1 Categoria ESORDIENTI 1° e 2° ANNO e DONNE ESORDIENTI 1° e 2° ANNO
-4.0.1 Periodo di attività. Il periodo di attività su strada inizia l’ultima domenica di marzo e termina il 30 settembre. Possono correre nelle giornate di domenica e nei giorni festivi, in gare in linea ed in circuito, e tutti i giorni, tranne il lunedì, nelle gare a cronometro. È consentito altresì l’organizzazione di gare infrasettimanali, senza alcuna autorizzazione da parte del C.F. (la partecipazione dell’atleta alla gara infrasettimanale è da considerarsi in luogo della domenica e/o della festività). È consentito altresì l’organizzazione di gare infrasettimanali (che non rientreranno nel computo settimanale e complessivo di gare degli atleti partecipanti) non festive a partire dal 1° di giugno su circuiti chiusi (autodromi, motovelodromi) con distanza ridotta del 30% sulla distanza classica. Le gare devono essere comprese in manifestazioni con minimo 4 gare di altre categorie. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto. Nel corso dell’anno ogni atleta può partecipare al massimo a 28 giornate di gara. Le prove di Ciclocross/Fuoristrada, pista, tipo pista, cronometro sono escluse dalmconteggio.
+4.1.1 Periodo di attività. Il periodo di attività su strada inizia la penultima domenica domenica di marzo e termina la seconda
+domenica di ottobre. Gli atleti possono partecipare ad 1 gara su strada (escluse cronometro e tipo pista) nel corso della settimana. Il giorno infrasettimanale festivo non rientra nel conteggio settimanale di partecipazione. 
 
-4.0.2 Percorso. Le gare devono svolgersi su percorsi prevalentemente pianeggianti.
+È consentito altresì l’organizzazione di gare infrasettimanali, senza alcuna autorizzazione da parte del C.F. (la partecipazione dell’atleta alla gara infrasettimanale è da considerarsi in luogo della domenica e/o della festività). È consentito altresì l’organizzazione di gare infrasettimanali (che non rientreranno nel computo settimanale e complessivo di gare degli atleti partecipanti) non festive a partire dal 1° di giugno su circuiti chiusi (autodromi, motovelodromi) con distanza ridotta del 30% sulla distanza classica. Le gare devono essere comprese in manifestazioni con minimo 4 gare di altre categorie. 
 
-4.0.3 Chilometraggio. Il chilometraggio minimo e massimo è così stabilito:
+L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto. 
+
+Nel corso dell’anno ogni atleta può partecipare al massimo a 32 giornate di gara incluse le gare all’estero. Le prove di Ciclocross/Fuoristrada, pista, tipo pista, cronometro sono escluse dalmconteggio.
+
+4.1.2 Percorso. Le gare devono svolgersi su percorsi prevalentemente pianeggianti.
+
+4.1.3 Chilometraggio. Il chilometraggio minimo e massimo è così stabilito:
 
 | Attività       | Periodo                           | 1° Anno | 2° Anno |
 |----------------|-----------------------------------|---------|---------|
@@ -264,21 +297,19 @@ Vengono assegnati punti di addestramento e formazione tecnica sulla base di ogni
 4.2.5 Si dà facoltà ai CC.RR. di approvare gara unica tra Esordienti 1° e 2° anno. Tale facoltà è concessa alla categoria Donne Esordienti 1 e 2° anno. In questo caso si deve adottare il chilometraggio previsto per la categoria del 1° anno, con classifica separata per fascia d’età. Inoltre, si dovrà versare l’importo della tassa federale come indicato dal prospetto "Premi e Tasse" per la sola gara Esordienti o Donne Esordienti del 1° anno.
 
 4.2.6 Fermo restando quanto previsto del RTAA, in tema di vincoli regionali. Il Comitato Regionale può concedere, a sua discrezione, il nulla osta per il trasferimento in altra regione.
-- Nel caso in cui il Comitato Regionale conceda il nulla osta, l’atleta sarà tenuto a: alle competizioni che assegnano titoli individuali nazionali e regionali e nelle manifestazioni riservate alle rappresentative regionali gli atleti, se convocati, partecipano con la rappresentativa della regione di residenza che ha concesso il nulla osta; la discriminante è la residenza dell’atleta indipendentemente dall’anno in cui si è trasferito.
-- nelle gare di Campionato Regionale dovrà partecipare senza squadra, mentre nelle prove valide come campionato regionale, la partecipazione sarà libera e concorrerà per il titolo;
-- nelle gare di Campionato Regionale la validazione dell’elenco degli iscritti deve essere fatta dalla Struttura Tecnica Regionale.
+-  Alle competizioni che assegnano titoli individuali nazionali, regionali e provinciali e nelle manifestazioni dove è prevista la partecipazione delle rappresentative regionali gli atleti gareggiano e/o concorrono al titolo in base residenza  determinata dalla validazione del 1° tesseramento annuale.
 
 ### 4.3 Categoria ALLIEVI e DONNE ALLIEVE
 
 4.3.1 Periodo di attività. 
 
-Il periodo di attività su strada inizia l’ultima domenica di marzo e termina la seconda domenica di ottobre. Possono correre nelle giornate di domenica e nei giorni festivi, in gare in linea ed in circuito, e tutti i giorni, tranne il lunedì, nelle gare a cronometro. 
+Il periodo di attività su strada inizia la penultima domenica di marzo e termina la seconda domenica di ottobre. Gli atleti possono partecipare ad 1 gara su strada (escluse cronometro e tipo pista) nel corso della settimana. Il giorno infrasettimanale festivo non rientra nel conteggio settimanale di partecipazione.
 
 È consentito altresì l’organizzazione di gare infrasettimanali, senza alcuna autorizzazione da parte del C.F. (la partecipazione dell’atleta alla gara infrasettimanale è da considerarsi in luogo della domenica e/o della festività). È consentito altresì l’organizzazione di gare infrasettimanali (che non rientreranno nel computo settimanale e complessivo di gare degli atleti partecipanti) non festive a partire dal 1° di giugno su circuiti chiusi (autodromi, motovelodromi) con distanza ridotta del 30% sulla distanza classica. Le gare devono essere comprese in manifestazioni con minimo 4 gare di altre categorie. 
 
 L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo sul sistema informatico entro 48h dalla fine dell’evento. Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto. 
 
-Nel corso dell’anno ogni atleta può partecipare al massimo a 32 giornate di gara. Le prove di Ciclocross/Fuoristrada, pista, tipo pista, cronometro sono escluse dal conteggio. E’ prevista la possibilità di gareggiare in gare a tappe o gare di più giorni consecutivi nella comunità europea ed in Italia (la relativa normativa sarà oggetto di specifico successivo comunicato).
+Nel corso dell’anno ogni atleta può partecipare al massimo a 38 giornate di gara incluse le gare all’estero. Le prove di Ciclocross/Fuoristrada, pista, tipo pista, cronometro sono escluse dal conteggio. E’ prevista la possibilità di gareggiare in gare a tappe o gare di più giorni consecutivi nella comunità europea ed in Italia (la relativa normativa sarà oggetto di specifico successivo comunicato).
 
 4.3.2 Chilometraggio
 
@@ -299,10 +330,93 @@ Il chilometraggio minimo e massimo é così stabilito:
 
 4.3.3 Fermo restando quanto previsto del RTAA, in tema di vincoli regionali. Il Comitato Regionale può concedere, a sua discrezione, il nulla osta per il trasferimento in altra regione.
 
-- Nel caso in cui il Comitato Regionale conceda il nulla osta, l’atleta sarà tenuto a: alle competizioni che assegnano titoli individuali nazionali e regionali e nelle manifestazioni riservate alle rappresentative regionali gli atleti, se convocati, partecipano con la rappresentativa della regione di residenza che ha concesso il nulla osta;
-la discriminante è la residenza dell’atleta indipendentemente dall’anno in cui si è trasferito
-- nelle gare di Campionato Regionale dovrà partecipare senza squadra, mentre nelle prove valide come campionato regionale, la partecipazione sarà libera e concorrerà per il titolo;
-- nelle gare di Campionato Regionale la validazione dell’elenco degli iscritti deve essere fatta dalla Struttura Tecnica Regionale.
+- Alle competizioni che assegnano titoli individuali nazionali, regionali e provinciali e nelle manifestazioni dove è prevista la partecipazione delle rappresentative regionali gli atleti gareggiano e/o concorrono al titolo in base residenza determinata dalla validazione del 1° tesseramento annuale
+
+## 4.4 DISPOSIZIONI GARE A TAPPE ALLIEVI e DONNE ALLIEVE
+
+4.4.1 Le gare a tappe allievi o donne allieve devono essere inserite nel calendario regionale. È obbligatorio predisporre il regolamento particolare di corsa che deve essere effettuato d’intesa con la STF – Settore Strada. Le gare a tappe si possono svolgere dal 1 di giugno al 30 settembre.
+
+4.4.2 Partecipazione
+
+La gara è considerata libera, con le regole d’iscrizione per le gare regionali. La composizione numerica delle squadre è di minimo 3 e massimo 5 atleti. È ammessa la partecipazione di squadre di club e rappresentative regionali. 
+
+La partecipazione a tali gare è consentita solo alla categoria per la quale è approvata la gara, non potranno essere al via atleti della categoria Junior 1^ anno anche se rientranti nella norma 11.1.5 delle NA Internazionali.
+
+Un atleta potrà partecipare al massimo a 2 gare a tappe nella stagione e distanziate di almeno 30 giorni una dall’altra. In mancanza di particolari disposizioni emanate dalla STF - Settore Strada, l’organizzatore è libero di invitare massimo 3 formazioni straniere provviste di regolare autorizzazione della federazione di appartenenza.
+
+4.4.3 Iscrizione. L’iscrizione avviene tramite K-sport con le regole delle gare regionali.
+
+4.4.4 Verifica licenze - Riunione tecnica. La verifica delle licenze deve svolgersi almeno 2 ore prima della partenza della 1^ tappa e la stessa deve essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3 o Dirigente della Società delle squadre partecipanti. Seguirà la riunione tecnica fra il responsabile della Società Organizzatrice, il Direttore di Corsa, il Collegio di Giuria, il Rappresentante della STR, i Tecnici di ciclismo TI2,TA2,TA3 delle squadre partecipanti.
+
+4.4.5 Trasferimenti. Sono concessi dalla partenza ufficiosa a quella ufficiale, fino ad un massimo di km 5.
+
+4.4.6 Rifornimento. Il rifornimento è consentito da persone appiedate per le sole bevande, a partire dal chilometro zero e termina a 5 km. dall’arrivo.
+
+4.4.7 Cambio ruote. Deve essere previsto il servizio cambio ruote composto da due autovetture con personale e ruote efficienti. Il cambio della ruota può essere effettuato solo dalle vetture cambio ruote; Non è ammesso il cambio ruota e/o bicicletta tra corridori. Per quanto non specificato vale l’articolo 3.10 delle N.A.
+
+4.4.8 Abbuoni. Non sono previsti
+
+4.4.9 Semitappe. Non sono consentite
+
+4.4.10 Chilometraggio e giornate di gare.
+
+La durata massima è 4 giorni, dove è possibile predisporre la gara con al massimo 3 tappe ed una cronometro individuale/squadre. Il Km massimi previsti:
+- Crono Ind./Sq.: 10/15 km
+- Tappa: 70 km
+- Giro (escluse le crono): 190 km
+
+4.4.11 Sorteggio ordine di marcia delle vetture sociali.
+
+L'ordine delle vetture è determinato dal sorteggio in occasione della riunione dei direttori sportivi, salvo che la prima tappa sia una cronometro. Il sorteggio previsto per le vetture sociali al seguito della gara verrà limitato alle sole autovetture con un’altezza massima di metri 1,66. Gli automezzi aventi un’altezza superiore a mt. 1,66, non rientrano nei sorteggi e pertanto sono obbligati a seguire la gara in coda alla carovana. Le autovetture dell’organizzazione (cambio ruote, Giuria, Direzione di Corsa, Medico di gara, Radio informazioni, Strutture e Commissioni), devono avere l’altezza massima di metri 1,66.
+
+Ogni squadra avrà diritto ad una sola autovettura nel seguito ufficiale della corsa, che deve avere obbligatoriamente a bordo un Tecnico di ciclismo TI2,TA2,TA3 della società; tale diritto sarà valido fino a che la squadra avrà un corridore in gara. Per le tappe successive l’ordine di marcia delle vetture è stabilito in funzione della posizione del primo corridore della squadra nella classifica generale.
+
+L’organizzazione provvede a distribuire, unitamente ai comunicati ufficiali, un numero, ogni giorno, di differente colore rispetto alla tappa precedente, da apporre sull’ammiraglia. I finestrini delle vetture delle società al seguito di una corsa non devono essere coperti con qualsiasi cosa che ostruisca la visibilità attraverso il veicolo o essere ostruiti in maniera significativa da adesivi o scritte.
+
+4.4.12 Tempo massimo. Il tempo massimo è stabilito nel 10% del tempo del vincitore. In casi eccezionali, per fatti imprevedibili e per causa di forza maggiore, il Collegio dei Commissari può prolungare il tempo massimo, previa consultazione con gli Organizzatori. Nelle tappe a cronometro il tempo massimo sarà calcolato nella percentuale del 30% del tempo del vincitore.
+
+4.4.13 Incidente negli ultimi 3 Km. In caso di incidente debitamente constatato, negli ultimi tre chilometri di una tappa in linea, il o i corridori coinvolto/i è/sono accreditato/i del tempo del o/dei corridori in compagnia del o/dei quali si trovava/trovavano al momento dell'incidente. Il suo o i loro piazzamento/i sarà/saranno quello/i con cui ha/hanno superato la linea d'arrivo. Tale norma non si applica in caso di arrivo in salita.
+
+4.4.14 Incidente nell’ultimo Km - Cronosquadre. In caso di caduta, di foratura o di incidente meccanico debitamente constatato, dopo il passaggio sotto il triangolo rosso, il o i corridori coinvolti sono accreditati del tempo del o dei compagni con i quali si trovava/si trovavano al momento dell'incidente. Se a seguito di una caduta debitamente constatata dopo il passaggio sotto il triangolo rosso, un corridore è nella impossibilità di superare la linea di attivo, gli verrà accreditato il tempo del o dei compagni con i quali si trovava al momento dell’incidente. Il presente articolo non è applicabile nel caso di arrivo in salita.
+
+4.4.15 Ospitalità ufficiali. Nelle gare a tappe l'organizzatore deve assicurare il vitto e l’alloggio a:
+- Collegio di Giuria (in stanze singole);
+- Eventuali cronometristi;
+- Eventuali addetti al controllo antidoping (Ispettore/Medico ed eventuale infermiere/a);
+
+4.4.16 Vitto ed alloggio. L’organizzazione non ha l’obbligo di fornire vitto ed alloggio ai team.
+
+4.4.17 Direttori di Corsa. È obbligatoria la presenza del Direttore di Corsa e del Vice Direttore di Corsa.
+
+4.4.18 Premi e Tasse. La tassa gara è stabilita in 250€ per ogni giorno di gara.
+
+4.4.19 Montepremi. Il C.F. ha dato la facoltà ai CC.RR. di decidere, per la sola attività regionale, qualsiasi modifica del montepremi. La tabella premi deve essere inserita nell’approvazione della gara su sistema informatico KSport alla voce “regolamento”. L’eventuale montepremi per giornata è stabilito in € 129,00 seguendo la 
+suddivisione presente nella tabella per detta cifra. Il montepremi riportato è fissato al lordo della ritenuta del 20% a titolo d’imposta, introdotta dal D. Lgs. 36/2021 art.36. L’eventuale montepremi della classifica finale si ottiene sommando il 50% dell’importo del montepremi di ogni tappa moltiplicato per il numero di tappe.
+
+4.4.20 Classifica Generale Individuale o in alternativa Classifica Generale a Squadre. È possibile predisporre la classifica generale a punti individuale o in alternativa la classifica generale a squadre a tempi.
+
+4.4.20.1 Classifica Generale a squadre a tempi. La classifica giornaliera si ottiene sommando i 3 migliori tempi individuali per  squadra. In caso di parità, le squadre sono classificate dalla somma dei piazzamenti ottenuti dai loro 3 primi corridori della tappa. La classifica generale per squadre si stabilisce dalla somma dei 3 migliori tempi individuali di ogni squadra, in tutte le tappe. In caso di parità, è fatta applicazione dei criteri seguenti fino a che ci sia una disparità: 
+- numero dei primi piazzamenti nella classifica per squadre del giorno
+- numero del secondo piazzamento nella classifica per squadre del giorno
+- etc.
+
+In caso di ritiro nella tappa, visto il carattere formativo della categoria l’atleta/i per poter ripartire il giorno successivo, gli verrà attribuito il tempo dell’ultimo arrivato di tappa con l’aggiunta di 10 minuti. Tutte le squadre che ripartiranno con meno di 3 corridori gareggeranno con l’esclusione dalla classifica generale a squadre a tempi.
+
+4.4.20.2 Maglie di leader con classifica generale a squadre a tempi. È obbligatorio predisporre la maglia di leader per tutti i componenti del team.
+
+4.4.20.3 Classifica Generale Individuale a Punti. Si otterrà sommando il punteggio in base al piazzamento all’arrivo di ogni tappa come da tabella: [RM]
+
+Dal 26° in poi viene assegnato un punto ad ogni atleta classificato in tempo massimo. In caso di parità si terrà conto della somma dei piazzamenti, in caso di ulteriore parità si terrà conto dell’ultimo piazzamento. In caso di classifica generale a punteggio gli atleti acquisiranno i punti della posizione all’arrivo. Visto il carattere formativo della categoria gli atleti ritirati potranno partire il giorno successivo, venendo esclusi da tutte le classifiche generali di gara previste. I punti ottenuti dall’atleta fuori classifica non verranno più conteggiati a nessuno atleta, quindi andranno persi.
+
+Es. Atleta fuori classifica si piazza al 2° posto nella tappa; i suoi punti andranno persi e non verranno attribuiti al 3° classificato e così via.
+
+4.4.20.4 Maglie di leader con classifica generale individuale a punti. Si possono assegnare un massimo di 6 maglie ufficiali. È obbligatorio predisporre la maglia di leader della classifica generale individuale e della classifica allievi 1° anno.
+
+4.4.21 Punteggi di valorizzazione. Verranno attribuiti punteggi: 5pnt al 1°, 4pnt al 2°, 3pnt al 3°, 2pnt al 4°, 1pnt al 5° per ogni singola tappa. In caso di classifica generale individuale a punti verranno attribuiti: 5pnt al 1°, 4pnt al 2°, 3pnt al 3°, 2pnt al 4°, 1pnt al 5° della classifica.Non sono previsti punti di valorizzazione per la classifica generale finale a squadre. I punti acquisiti ed eventuali premi nell’arrivo di tappa vengono conteggiati anche agli atleti esclusi dalle classifiche generali.
+
+4.4.22 Norme generali. Per quanto non contemplato vigono le norme delle gare di un giorno.
+
+4.4.23 Sanzioni. Verranno applicate le sanzioni previste per le gare regionali allievi.
 
 ## 5.0 ATTIVITÀ CATEGORIE FEMMINILI
 
@@ -318,16 +432,15 @@ la discriminante è la residenza dell’atleta indipendentemente dall’anno in 
 
 5.1.5 Gare Regionali. Le atlete tesserate in regione sono vincolate alla partecipazione alla gara che si svolge nella propria regione.
 
-5.1.6 Gare Interregionali. Sono gare riservate a tesserate di più regioni sulla base di liberi accordi fra i vari CC.RR. Le regioni aderenti all'accordo devono essere indicate sul programma di gara e nella sezione categorie ammesse. Le atlete tesserate per le regioni indicate sul programma sono vincolate alla partecipazione alla gara e non possono iscriversi ad altra gara. Da detta norma sono escluse le atlete tesserate nelle regioni non aderenti all'accordo nelle quali non sono in programma, in quella data, gare femminili regionali o interregionali di categoria a loro riservate.
+5.1.6 Gare Interregionali. Sono gare riservate a tesserate di più regioni sulla base di liberi accordi fra i vari CC.RR. Le regioni aderenti all'accordo devono essere indicate sul programma di gara e nella sezione categorie ammesse. Le atlete tesserate per le regioni indicate sul programma non sono vincolate alla partecipazione alla gara e possono iscriversi ad altra gara. Da detta norma sono escluse le atlete tesserate nelle regioni non aderenti all'accordo nelle quali non sono in programma, in quella data, gare femminili regionali o interregionali di categoria a loro riservate.
 
 5.1.7 È facoltà dei CC.RR. attuare l'attività regionale ed interregionale (da formalizzare e pubblicare sull’Organo ufficiale prima dell’inizio della stagione agonistica) in funzione delle esigenze territoriali.
 
-5.1.8 Gare con la categoria maschile. Solo quando nella regione o nelle regioni accordate (gare interregionali) non vi sono gare di categoria a loro riservate, le atlete possono correre in promiscuità con le categorie maschili secondo le seguenti modalità:
-- Donne Esordienti: con la categoria maschile esordienti 1° anno (od esordienti unica) adeguandosi alla regolamentazione di detta categoria. 
-- Donne Allieve: con la categoria maschile esordienti 2° anno (od esordienti unica), adeguandosi alla regolamentazione di detta categoria. 
+5.1.8 Gare con la categoria maschile. Quando nella regione in cui risultano tesserate non vi sono gare di categoria a loro riservate, le atlete possono correre in promiscuità con le categorie maschili secondo le seguenti modalità:
+- Donne Esordienti: con la categoria maschile esordienti 1° anno (od esordienti unica) adeguandosi alla regolamentazione di detta categoria.
+- Donne Allieve: con la categoria maschile esordienti 2° anno (od esordienti unica), adeguandosi alla regolamentazione di detta categoria.
 
-Resta inteso che questa opportunità è valida solo se nella regione in cui le donne esordienti e/o allieve intendono gareggiare non è prevista gara femminile della loro categoria. In tali casi è inoltre consentito effettuare prove di Campionato provinciale e/o regionale con l'assegnazione del titolo, qualora nella provincia o nella regione non siano previsti campionati specifici riservati alla categoria.
-
+Resta inteso che questa opportunità è valida solo se nella regione in cui le donne esordienti e/o allieve intendono gareggiare non è prevista gara femminile della loro categoria. In tali casi è inoltre consentito effettuare prove di Campionato provinciale e/o regionale con l'assegnazione del titolo, qualora nella provincia o nella regione non siano previsti campionati specifici riservati alla categoria. Ai fini dell’attribuzione dei punti di addestramento e formazione tecnica fa fede l’ordine d’arrivo generale.
 
 ## 6.0 CAMPIONATI SU STRADA
 In analogia a quanto previsto dai regolamenti si precisa che, per tutti i campionati sarà applicato il R.T.A.A. della F.C.I. e quanto stabilito dalle Norme Attuative in vigore.
@@ -339,15 +452,14 @@ categorie:
 - Donne esordienti 1° anno - Donne esordienti 2° anno
 - Allievi - Donne allieve
 
-
 ➢ NORME DI AMMISSIONE
 
 - Esordienti 1° e 2° anno. 
     
     Per ogni singola categoria la partecipazione è consentita ai corridori selezionati dai CC.RR. nella seguente misura:
     - corridori per CR (totale 63 corridori);
-    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 1° maggio 2022 ;
-    - 60 corridori ripartiti tra i CC.RR. in proporzione al numero dei tesserati al 1° maggio 202 2 ;
+    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 1° maggio 2024;
+    - 60 corridori ripartiti tra i CC.RR. in proporzione al numero dei tesserati al 1° maggio 2024;
 
     Sono altresì ammessi di diritto:
 
@@ -362,8 +474,8 @@ categorie:
     La partecipazione è consentita ai corridori selezionati dai CR nella seguente misura:
 
     - 3 corridori per CR (totale 63 corridori);
-    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 1° maggio 2022 ;
-    - 70 corridori ripartiti tra i CCRR in proporzione al numero dei tesserati al 1° maggio 2022.
+    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 1° maggio 2024;
+    - 70 corridori ripartiti tra i CCRR in proporzione al numero dei tesserati al 1° maggio 2024.
 
     Sono altresì ammessi di diritto:
 
@@ -400,29 +512,35 @@ nelle gare della propria categoria e specialità.
 Nel caso in cui i Campioni Italiani Esordienti M/F e Donne Allieve partecipino ad
 una gara Esordienti unica, dovranno comunque indossare la maglia tricolore.
 
-### 6.2 Campionati Italiani a Cronometro
+### 6.2 Campionati Italiani a Cronometro Individuale ed a Squadre
 
-6.2.1 Per tutte le categorie è obbligatorio il servizio di cronometraggio F.I.Cr.
+6.2.1 Per tutte le categorie è obbligatorio il servizio di cronometraggio qualificato.
 
 6.2.2 Si disputano due gare distinte per le seguenti categorie:
 - Allievi
 - Donne Allieve.
 
 ### 6.3 Campionati Regionali
-6.3.1 L’organizzazione dei Campionati regionali è consentita per tutte le categorie per le quali sono previsti i titoli a livello nazionale. Per tutte le categorie è obbligatorio il servizio fotofinish. I Campionati Regionali si svolgono in data libera, avendo però cura salvaguardare i seguenti appuntamenti:
+6.3.1 L’organizzazione dei Campionati regionali è consentita per tutte le categorie per le quali sono previsti i titoli a livello nazionale. Il titolo regionale si assegna in base alla residenza dei concorrenti in base alla residenza inserita e validata nel 1° tesseramento annuale Per tutte le categorie è obbligatorio il servizio fotofinish. I Campionati Regionali si svolgono in data libera, avendo però cura salvaguardare i seguenti appuntamenti:
 
 - Campionati Italiani Giovanili strada;
 - Campionati Italiani Giovanili pista;
 - Gare regionali e/o interregionali del Bracciale del cronomen (tutto il week-end).
 
-6.3.2 I Campioni Regionali di tutte le categorie hanno l’obbligo di indossare la maglia di Campione Regionale nelle gare che si disputano nella regione in cui è affiliata la Società di appartenenza, anche se aperte a più categorie. È facoltativo indossare la stessa maglia nelle gare del territorio nazionale.
+6.3.2 I Campioni Regionali di tutte le categorie hanno l’obbligo di indossare la maglia di Campione Regionale anche se la gara è aperta a più categorie, nella regione in cui sono residenti. È facoltativo indossare la stessa maglia nelle gare del territorio nazionale.
 
-6.3.3 Prova unica di Campionato Regionale Una manifestazione si definisce prova unica di Campionato Regionale quando la partecipazione è riservata a corridori tesserati in società della medesima regione (fatto salvo quanto previsto dagli articoli 4.2.6 e 4.3.3). Le tassa ed i premi previsti sono quelli stabiliti dalla tabella (campionati regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per i Campionati Regionali. È ammessa la partecipazione di atleti stranieri, tesserati alla FCI per società (non sono ammessi atleti con la tessera REG) della regione, che concorrono all'assegnazione del titolo regionale. In tale gara è ammessa la partecipazione di categorie femminili appartenenti alla medesima regione come da articolo 5. 1 .8. Tali atlete, se non espressamente scritto, non concorrono al titolo.
+6.3.3 Prova unica di Campionato Regionale. Una manifestazione si definisce prova unica di Campionato Regionale quando la partecipazione è riservata a corridori residenti nella regione in base alla residenza inserita e validata nel 1° tesseramento annuale. Le tassa ed i premi previsti sono quelli stabiliti dalla tabella (campionati regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per i Campionati Regionali.
 
-6.3.4 Gara valida per l'assegnazione del titolo di Campione Regionale Detta manifestazione è una gara a partecipazione libera, aperta anche ai tesserati di società di altre regioni (compresi i corridori stranieri, tesserati alla FCI per società italiane). Le tasse ed i premi previsti sono quelli stabiliti dalla tabella (gare regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per una gara regionale. Gli atleti italiani e stranieri tesserati per società extra regionali (fatto salvo quanto previsto dagli articoli 4.2.6 e 4.3.3) rispetto a quella in cui è indetta la gara, e gli atleti con categoria REG (sia della regione in cui è indetta la gara che non) non concorrono all’assegnazione del titolo regionale. È ammessa la partecipazione di atleti stranieri, tesserati alla FCI per società della regione, che concorrono all'assegnazione del titolo regionale.
+Concorrono al titolo gli atleti italiani e stranieri residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale). Non sono ammessi in gara atleti italiani e stranieri NON residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale) e gli atleti con categoria REG. In tale gara è ammessa la partecipazione di categorie femminili appartenenti alla medesima regione come da articolo 5.1.8. Tali atlete, se non espressamente scritto, non concorrono al titolo.
+
+6.3.4 Gara valida per l'assegnazione del titolo di Campione Regionale Detta manifestazione è una gara a partecipazione libera, aperta anche ai tesserati di società di altre regioni (compresi i corridori stranieri, tesserati alla FCI per società italiane). Le tasse ed i premi previsti sono quelli stabiliti dalla tabella (gare regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per una gara regionale. 
+
+Concorrono al titolo gli atleti italiani e stranieri residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale). Non concorrono al titolo gli atleti italiani e stranieri NON residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale) e gli atleti con categoria REG.
 
 ### 6.4 Campionati Provinciali
-L’organizzazione dei Campionati provinciali è facoltativa ed è consentita per tutte le categorie per le quali sono previsti i titoli a livello nazionale. È ammessa la partecipazione di atleti stranieri, tesserati alla FCI per società della provincia, che concorrono all'assegnazione del titolo provinciale. Gli atleti con categoria REG non concorrono al titolo.
+L’organizzazione dei Campionati provinciali è facoltativa ed è consentita per tutte le categorie per le quali sono previsti i titoli a livello nazionale. 
+
+Concorrono al titolo gli atleti italiani e stranieri residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale). Non concorrono al titolo gli atleti italiani e stranieri NON residenti nella regione (in base alla residenza inserita e validata nel 1° tesseramento annuale) e gli atleti con categoria REG.
 
 6.4.1 I Campioni Provinciali di tutte le categorie hanno la facoltà di indossare la maglia di Campione Provinciale unicamente nell’ambito della Regione in cui è affiliata la Società di appartenenza, anche in gare approvate per più categorie.
 
@@ -489,7 +607,7 @@ Nell’ambito degli eventuali accordi frontalieri, le selezioni nazionali giovan
 
 ### 8.5 Rappresentative Regionali
 
-È facoltà dei CC.RR. includere nelle proprie rappresentative regionali M/F, anche atleti stranieri regolarmente tesserati alla FCI con Società Italiane, a gare per le categorie esordienti ed allievi, con l'esclusione dei Campionati Italiani. La partecipazione alle gare delle Rappresentative Regionali/Interregionali è subordinata alla preventiva autorizzazione che deve essere richiesta alla STF - Settore Strada. Nelle rappresentative possono essere inseriti solamente atleti la cui società di appartenenza non partecipi alla stessa gara.
+La rappresentativa regionale è composta da atleti residenti nella regione. È facoltà dei CC.RR. includere nelle proprie appresentative regionali M/F anche atleti stranieri residenti nella regione regolarmente tesserati alla FCI con Società Italiane (non sono ammessi atleti con tessera REG), a gare per le categorie esordienti ed allievi, con l'esclusione dei Campionati Italiani. Per formare le rappresentative regionale non è necessaria l’autorizzazione della STF – Settore Strada. Nelle rappresentative possono essere inseriti solamente atleti la cui società di appartenenza non partecipi alla stessa gara.
 
 ### 8.6 Comportamento dei corridori – Posizione in bicicletta
 
@@ -520,6 +638,7 @@ L’organizzazione deve predisporre:
 - Un numero di motostaffette di servizio a garantire la sicurezza, in base alle indicazioni della Direzione di Corsa;
 - Un mezzo per gli atleti ritirati;
 - Un mezzo con cartelli indicanti “fine gara ciclistica” conformi alle norme del Codice della Strada;
+- Tutti gli autisti di auto a seguito dell’evento devono avere massimo 75 anni e per le moto massimo 72 anni;
 - Inoltre, l’organizzatore, deve proteggere gli atleti e tutta la carovana lungo il percorso di gara attuando quelle procedure specifiche indicate nel R.T.A.A. e nelle varie ordinanze e autorizzazioni prescritte dalle autorità-enti preposti.
 
 ### 10.2 Pannello Arrivo
@@ -537,6 +656,8 @@ Ad integrazione delle consuete procedure di premiazione, compatibilmente con le 
 2. premiazione degli atleti interessati;
 3. eventuale controllo medico (antidoping);
 
+### 10.6 Frecciatura del percorso
+È obbligatoria la frecciatura del percorso
 
 ## 11.0 IDENTIFICAZIONE ATLETI
 
@@ -577,10 +698,10 @@ Viene data la possibilità ai CCRR di creare ed affiliare società che permettan
 ### 16.0 ATLETI DI NAZIONALITA' ITALIANA IN POSSESSO DI LICENZA ESTERA
 
 Nel caso in cui un atleta di nazionalità italiana non ha la residenza in Italia, sulla base di quanto previsto dal Regolamento UCI, si ritiene valida la tessera rilasciata dalla Federazione Estera ove l’atleta ha la residenza. L’atleta dovrà presentare alla STF- strada la seguente documentazione:
-- copia della licenza estera 2023 ;
+- copia della licenza estera 2024;
 - autorizzazione della Federazione estera a partecipare a gare in Italia;
 - essere in regola con quanto previsto al proposito dalle Norme della tutela della salute FCI;
-- nel caso di tesseramento alla FCI nel 2022 , nulla osta da parte della società italiana come previsto dal RTAA;
+- nel caso di tesseramento alla FCI nel 2023, nulla osta da parte della società italiana come previsto dal RTAA;
 La STF – settore strada rilascerà autorizzazione a partecipare a gare regionali in Italia.
 
 ## 17.0 NORME DI RINVIO
@@ -588,11 +709,37 @@ La STF – settore strada rilascerà autorizzazione a partecipare a gare regiona
 Per quanto non espressamente previsto nelle presenti norme attuative, vige il
 RTAA della FCI.
 
-Milano, 25 gennaio 2023
+Milano, 14 Novembre 2023
 
 
+# CHANGELOG 2024
+- 2.0.3 Gare a cronometro nei velodromi
+- 2.1 Gare a Tapper AL/DA
+- 2.2 Montepremi facoltativo eccetto Camp. Ita
+- 3.1.7 Ammesso auricolare per AL/DA nelle cronometro
+- 3.1.8 Facoltà agli atleti CIta crono squadre di indossare la maglia nelle crono squadre
+- 3.1.9 Crono individuali all'interno dei velodromi per ES 2° anno e AL
+- 3.3.1 Iscrizioni chiuse 3 giorni prima per cronometro
+- 3.3.4 DS non firma conferma partenti se è prevista presentazione
+- 3.7 Green Zone + possibilità di zona di rifornimento fisso
+- 3.10 2 cambi ruota -> minimo 2
+- 3.16 Tratti di strada sterrati (no ES, max 5% AL)
+- 4.1.1 Periodo di attività ES/ED: penultima dom. marzo, seconda dom. ottobre, max 32 incluse gare all'estero
+- 4.2.6 Nulla osta trasferimento: vale residenza primo tesseramento annuale
+- 4.3.1 Periodo di attività AL/DA: penultima dom. marzo, seconda dom. ottobre, max 38 incluse gare all'estero
+- 4.2.6 Nulla osta trasferimento: vale residenza primo tesseramento annuale
+- 4.4 (nuovo) DISPOSIZIONI GARE A TAPPE ALLIEVI e DONNE ALLIEVE
+- 5.1.6 Gare interregionali: vincolo partecipazione rimosso.
+- 6.2.1 servizio cronometraggio FICr -> qualificato
+- 6.3.1 campionti regionali: titolo campione regionale per residenza 
+- 6.3.2 obbligo di indossare la maglia nella regione di residenza, anche se la gara è apera a più categorie
+- 6.3.3/4 prova unica/gara valida: non ammessi/non concorrono i non residenti nella regione e i REG.
+- 6.4 campionati provinciali: titolo campione provinciale per residenza 
+- 8.5 Rappresentative Regionali. Per residenza + non necessaria auth STF.
+- 10.1 Età max. autisti: 75 anni auto, 72 anni moto.
+- 10.6 Frecciatura del percorso obbligatoria.
 
-# CHANGELOG wrt 2022
+# CHANGELOG 2023
 - 2.2 Montepremi. Tabella KSport pre-approvazione
 - 3.3.2 Verifica Licenze. TI2-TA2-T3 (o dirigente, o socio)
 - 3.3.3 Riunione Tecnica. TI2-TA2-T3 (o dirigente, o socio)

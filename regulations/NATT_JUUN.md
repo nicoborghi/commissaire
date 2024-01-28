@@ -67,7 +67,7 @@ Si disputano su percorsi unici, possibilmente pianeggianti e chiusi al traffico,
 
 Si disputano su percorsi in linea od in circuito. Possono essere individuali, a coppie ed a squadre di tre o più corridori. 
 
-La partecipazione è libera o ad invito. Le iscrizioni debbono chiudersi almeno 48 ore prima della partenza. La classifica viene redatta in base ai tempi di percorrenza, rilevati da cronometristi ufficiali della F.I.Cr. (Federazione Italiana Cronometristi). 
+La partecipazione è libera o ad invito. Le iscrizioni debbono chiudersi almeno 48 ore prima della partenza. La classifica viene redatta in base ai tempi di percorrenza, rilevati da cronometristi qualificati. 
 
 Due corridori, coppie o squadre della stessa società non possono prendere il via uno di seguito all’altro. Per superare tale eventualità il secondo corridore, coppia o squadra deve essere preceduto da altro sorteggiato. Durante la gara ogni corridore, coppia o squadra deve essere preceduto da una staffetta motociclistica o auto predisposta dalla società organizzatrice. La vettura sociale deve rimanere dietro al proprio corridore, coppia o squadra. La manifestazione potrà essere annullata se alla verifica licenze non si presenteranno almeno 5 atleti (gara individuale), 5 coppie (gara a coppie), 5 squadre (gara a squadre). 
 
@@ -79,7 +79,7 @@ Si disputano su circuito, chiuso al traffico e pianeggiante di lunghezza compres
 
 1.2.5 A Tappe
 
-Le gare a tappe si disputano su un minimo di due giornate di gara, come stabilito nelle norme relative alle singole categorie, con classifica finale individuale a tempi, che dovranno essere rilevati da cronometristi ufficiali della F.I.Cr.. Possono essere inserite nel calendario: Internazionale - Nazionale.
+Le gare a tappe si disputano su un minimo di due giornate di gara, come stabilito nelle norme relative alle singole categorie, con classifica finale individuale a tempi, che dovranno essere rilevati da cronometristi qualificati. Possono essere inserite nel calendario: Internazionale - Nazionale.
 
 1.2.6 A Frazioni
 
@@ -87,17 +87,19 @@ Consentite per le categorie: Elite/Under 23 - Under 23 m/f - Donne Elite - Junio
 - gare regionali e nazionali: i primi 15 arrivati della prima prova.
 - gare internazionali: i primi 30 arrivati della prima prova.
 
-Non ci sono limitazioni sul numero massimo di atleti ammessi alla prova. La classifica generale, il cui montepremi è uguale a quello stabilito per una gara in linea, si ottiene sommando i tempi od i punti delle due prove. Qualora si usi il criterio della classifica generale a tempi, i tempi dovranno essere rilevati, in entrambe le gare, da cronometristi ufficiali della F.I.Cr.. Il chilometraggio totale delle due competizioni non deve superare il massimo stabilito per le gare in linea.
+Non ci sono limitazioni sul numero massimo di atleti ammessi alla prova. La classifica generale, il cui montepremi è uguale a quello stabilito per una gara in linea, si ottiene sommando i tempi od i punti delle due prove. Qualora si usi il criterio della classifica generale a tempi, i tempi dovranno essere rilevati, in entrambe le gare, da cronometristi qualificati. Il chilometraggio totale delle due competizioni non deve superare il massimo stabilito per le gare in linea.
 
 Per le categorie Juniores m/f, si disputano due prove distinte nella medesima giornata con chilometraggi come indicato negli art. 3.1.3 e 4.1.6. Alla seconda prova a cronometro individuale, saranno ammessi almeno i primi 20 atleti della classifica della gara in linea. L'organizzatore può aumentare a sua discrezione il numero massimo degli atleti che potranno partecipare alla crono. Per la gara crono, gli atleti dovranno utilizzare esclusivamente le bici classiche da strada (senza altre applicazioni), come specificato dal regolamento UCI. La classifica finale sarà determinata dalla somma dei tempi delle due gare o da somma dei punteggi assegnati come da tabella a seguire. In caso di parità viene assegnato il vantaggio al miglior piazzamento nella gara crono. I punteggi di valorizzazione ed i relativi montepremi, saranno assegnati tenendo conto esclusivamente della classifica finale. 
-
-Rifornimenti: valgono le regole della prova strada o cronometro in base al calendario di appartenenza. Possono essere inserite nel calendario: Internazionale - Nazionale o Regionale.
 
 | **Pos.** | **1**  | **2**  | **3**  | **4**  | **5**  | **6**  | **7**  | **8**  | **9**  | **10** |
 |----------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | punti    | 30     | 25     | 20     | 17     | 16     | 15     | 14     | 13     | 12     | 11     |
 | **Pos.** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
 | punti    | 10     | 9      | 8      | 7      | 6      | 5      | 4      | 3      | 2      | 1      |
+
+Per tutte le categorie i punteggi di valorizzazione saranno assegnati ad ogni frazione ed alla classifica finale ed il montepremi sarà assegnato tenendo conto esclusivamente della classifica finale. 
+
+Rifornimenti: valgono le regole della prova strada o cronometro in base al calendario di appartenenza. Possono essere inserite nel calendario: Internazionale - Nazionale o Regionale.
 
 ### 1.3 Manifestazioni in più prove
 Possono essere organizzate manifestazioni o trofei articolati in più prove, disputate in giornate di gara diverse, con classifica finale a punti, nel rispetto delle seguenti norme:
@@ -126,10 +128,9 @@ La denominazione “gara promiscua” con l’indicazione delle categorie ammess
 
 Vengono stilati i seguenti ordini di arrivo: - ordine di arrivo generale: per tutti gli arrivati in tempo massimo, - ordine di arrivo di ogni categoria: almeno i primi 10 arrivati.
 
-
 1.4.3 Montepremi
 
-Devono essere previsti montepremi per i primi 10 arrivati di ogni categoria agonistica, come indicato nelle tabelle federali (il C.F. ha dato la facoltà ai CC.RR. di decidere, per la sola attività regionale, qualsiasi modifica del montepremi fino alla categoria juniores. Tale tabella va inserita sul sistema informatico nella sezione “Documenti” alla voce “altro”. Solo nel caso in cui i partecipanti di una categoria siano meno di 5 partenti, la categoria può essere accorpata, con ordine di arrivo unico e montepremi unico. È facoltà degli organizzatori prevedere premi per i primi arrivati delle categorie accorpate partecipanti. Nelle gare a frazioni i montepremi saranno assegnati tenendo conto esclusivamente della classifica finale.
+Devono essere previsti montepremi per i primi 10 arrivati di ogni categoria agonistica, come indicato nelle tabelle federali. Il montepremi riportato sul prospetto Premi e Tasse è fissato al lordo della ritenuta del 20% a titolo d’imposta, introdotta dal D. Lgs. 36/2021 art.36. Il C.F. ha dato la facoltà ai CC.RR. di decidere, per la sola attività regionale, qualsiasi modifica del montepremi fino alla categoria juniores. Il montepremi è facoltativo per le categorie juniores M/F in gare regionali e nazionali (obbligatorio per i Campionati Italiani). Obbligatorio per le categorie superiori. Tale tabella va inserita sul sistema informatico nella sezione "Documenti" alla voce "Regolamento". Solo nel caso in cui i partecipanti di una categoria siano meno di 5 partenti, la categoria può essere accorpata, con ordine di arrivo unico e montepremi unico. È facoltà degli organizzatori prevedere premi per i primi arrivati delle categorie accorpate partecipanti.
 
 1.4.4 Punti di addestramento e valorizzazione tecnica
 
@@ -161,7 +162,7 @@ Alle gare di un giorno, iscritte nel Calendario Nazionale, si applicano i prospe
 
 3.1.2 Partecipazione
 
-Nella classe 1.12 e 1.13 non sono ammesse le squadre UCI WorldTeams, le squadre UCI Pro Teams, le Squadre Continental Straniere. Nella classe 1.12 possono partecipare squadre con atleti Elite s.c.: età massima 27 anni per gli italiani e 25 per gli stranieri (vedi punto 11.2.3). Possono partecipare tre formazioni straniere nelle classi: 1.12 – 1. 13 - 1.14 - 1. e 1.16 (nelle gare 1.16 possono partecipare facoltativamente anche atlete italiane e/o straniere di 19 anni). Da tale provvedimento sono escluse le Squadre appartenenti a Nazioni con accordi frontalieri in atto presso i singoli Comitati Regionali. È ammessa la partecipazione di Squadre Continental italiane come previsto dalle norme “Squadre Continental 2023”.
+Nella classe 1.12 e 1.13 non sono ammesse le squadre UCI WorldTeams, le squadre UCI Pro Teams, le Squadre Continental Straniere. Nella classe 1.12 possono partecipare squadre con atleti Elite s.c.: età massima 27 anni per gli italiani e 25 per gli stranieri (vedi punto 11.2.3). Possono partecipare tre formazioni straniere nelle classi: 1.12 – 1. 13 - 1.14 - 1. e 1.16 (nelle gare 1.16 possono partecipare facoltativamente anche atlete italiane e/o straniere di 19 anni). Da tale provvedimento sono escluse le Squadre appartenenti a Nazioni con accordi frontalieri in atto presso i singoli Comitati Regionali. È ammessa la partecipazione di Squadre Continental italiane come previsto dalle norme “Squadre Continental 2024”.
 
 3.1.3 Chilometraggio
 
@@ -178,7 +179,7 @@ Il chilometraggio massimo consentito è il seguente:
 
 3.1.4 Montepremi
 
-Il montepremi stabilito dalla FCI è suddiviso fra i primi dieci classificati.
+Il montepremi è obbligatorio per le classi di gara 1.12, 1.13 e 1.15 e facoltativo per le classi 1.14 e 1.16. Il montepremi stabilito dalla FCI è suddiviso fra i primi dieci classificati. Il montepremi riportato sul prospetto Premi e Tasse è fissato al lordo della ritenuta del 20% a titolo d’imposta, introdotta dal D. Lgs. 36/2021 art.36.
 
 ### 3.2 Gare a Tappe
 Alle gare a tappe, iscritte nel Calendario Nazionale, si applicano i prospetti PUIS
@@ -196,7 +197,7 @@ nonché quelli previsti dal “Regolamento UCI”.
 
 3.2.2 Partecipazione
 
-Nella classe 2.12 e 2.13 non sono ammesse le squadre UCI WorldTeams, le squadre UCI Pro Teams, le Squadre Continental Straniere. Nella classe 2.1 2 possono partecipare squadre con atleti Elite s.c.: età massima 27 anni per gli italiani e 25 per gli stranieri (vedi punto 11.2.3). Possono partecipare tre formazioni straniere nelle gare: 2.12 – 2.13 - 2.14, 2. e 2.16 (nelle gare 2.16 possono partecipare facoltativamente anche atlete italiane e/o straniere di 19 anni). Da tale provvedimento sono escluse le Squadre appartenenti a Nazioni con accordi frontalieri in atto presso i singoli Comitati Regionali. È ammessa la partecipazione di squadre Continental italiane come previsto dalle norme “Squadre Continental 2023 ”.
+Nella classe 2.12 e 2.13 non sono ammesse le squadre UCI WorldTeams, le squadre UCI Pro Teams, le Squadre Continental Straniere. Nella classe 2.1 2 possono partecipare squadre con atleti Elite s.c.: età massima 27 anni per gli italiani e 25 per gli stranieri (vedi punto 11.2.3). Possono partecipare tre formazioni straniere nelle gare: 2.12 – 2.13 - 2.14, 2. e 2.16 (nelle gare 2.16 possono partecipare facoltativamente anche atlete italiane e/o straniere di 19 anni). Da tale provvedimento sono escluse le Squadre appartenenti a Nazioni con accordi frontalieri in atto presso i singoli Comitati Regionali. È ammessa la partecipazione di squadre Continental italiane come previsto dalle norme “Squadre Continental 2024”.
 
 3.2.3 Durata e Chilometraggio
 
@@ -226,7 +227,7 @@ La classifica delle tappe a cronometro a squadre deve contare per la classifica 
 
 3.2.4 Montepremi
 
-Il montepremi stabilito dalla FCI è suddiviso fra i primi dieci classificati, sia per gli arrivi che per la classifica generale finale.
+Il montepremi è obbligatorio per le classi di gara 1.12, 1.13 e 1.15 e facoltativo per le classi 1.14 e 1.16. Il montepremi stabilito dalla FCI è suddiviso fra i primi dieci classificati. Il montepremi riportato sul prospetto Premi e Tasse è fissato al lordo della ritenuta del 20% a titolo d’imposta, introdotta dal D. Lgs. 36/2021 art.36.
 
 3.2.5 Presentazione/Appello Squadre ed atleti
 
@@ -242,14 +243,15 @@ I partenti verranno confermati in occasione della verifica licenza. Viene introd
 | 1.19   | riservate agli Elite s.c. e Under 23                  |
 | 1.20   | riservate agli Under 23                               |
 | 1.21   | riservate agli Juniores                               |
-| 1.23   | riservate alle Donne Junior (+DU1, + max 3 straniere) |
+| 1.23   | riservate alle Donne Junior (+DU1, max 3 sq. straniere) |
 | 1.29   | riservate agli Under 21                               |
+| Donne Open  | riservate a DJ, DU23, DE (max 3 sq. straniere)   |
 
 4.1.1 Partecipazione
 
 In tutte le gare regionali é ammessa la partecipazione degli atleti stranieri tesserati alla FCI con società italiane. È inoltre concessa la partecipazione singola per i soli atleti italiani tesserati FCI anche se facenti parte di squadre straniere.
 
-Salvo le indicazioni alla classe 1.23, è ammessa la partecipazione di una formazione di club straniera (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC) composta da un minimo di 3 ad un massimo di 5 atleti partenti. Per gli elite s.c. l’età massima è di 25 anni – nati nel 1998 ).
+Salvo le indicazioni alla classe 1.23, è ammessa la partecipazione di una formazione di club straniera (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC) composta da un minimo di 3 ad un massimo di 5 atleti partenti. Per gli elite s.c. l’età massima è di 25 anni – nati nel 1999).
 
 Le squadre straniere (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC), non nazionali, interessate dovranno inviarne richiesta alla STF strada unitamente all’autorizzazione della propria Federazione ed all’invito da parte della società organizzatrice. È previsto il pagamento di una tassa di iscrizione pari ad € 30 per ogni atleta, per ogni singola gara da corrispondere all’organizzatore. Non è ammessa la partecipazione di singoli atleti tesserati per squadre straniere (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC), anche se di nazionalità italiana. La partecipazione di team e/o singoli atleti appartenenti all’UEC dovrà essere autorizzata dalla FCI. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Al momento della verifica licenze i titolari possono essere sostituiti con le riserve. La verifica licenze può essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3 o da un componente del Consiglio Direttivo della Società. Le operazioni di verifica licenze dovranno terminare almeno un’ora prima della partenza e l’orario stabilito deve essere indicato nel programma gara; seguirà la riunione tecnica.
 
@@ -303,9 +305,7 @@ I partenti verranno confermati in occasione della verifica licenza. Viene introd
 
 ### 4.2 Categoria Elite/Under 23
 
-Non è consentita la partecipazione squadre nazionali straniere. La partecipazione di team e/o singoli atleti appartenenti all’UEC è libera e dovrà essere autorizzata dalla FCI. È consentita la partecipazione di una formazione di club straniera (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC) composta da un minimo di 3 ad un massimo di 5 atleti partenti. Per gli elite s.c. l’età massima è di 25 anni). Le squadre straniere (al di fuori dei team ricadenti nelle nazioni appartenenti all’UEC), non nazionali, interessate dovranno inviarne richiesta alla STF – settore Strada unitamente all’autorizzazione della propria Federazione ed all’invito da parte della società organizzatrice. È previsto il pagamento di una tassa di iscrizione pari ad € 30 per ogni atleta, per ogni singola gara da corrispondere all’organizzatore. La partecipazione degli atleti stranieri a gare regionali è subordinata alla partenza di almeno 4 atleti italiani della medesima società. Non è consentita la partecipazione di squadre UCI WorldTeams, di squadre UCI Pro Teams. È ammessa la partecipazione di squadre continental, sulla base di quanto previsto dalle norme FCI Attività Squadre Continental UCI 2023.
-
-Nella classe 1.19 sono ammessi atleti Elite s.c. con età massima di 27 anni per gli italiani e 25 per gli stranieri Il chilometraggio massimo consentito per le gare criterium è indicato nei relativi paragrafi concernenti l’attività delle singole categorie sul territorio nazionale. Il montepremi, stabilito dalla FCI, è suddiviso fra i primi dieci classificati.
+Non è consentita la partecipazione di squadre nazionali straniere. È consentita la partecipazione di una formazione di club straniera composta da un minimo di 3 ad un massimo di 5 atleti partenti. Per gli elite s.c. l’età massima è di 25 anni). Le squadre straniere, non nazionali, interessate dovranno inviarne richiesta alla STF – settore Strada unitamente all’autorizzazione della propria Federazione ed all’invito da parte della società organizzatrice. È previsto il pagamento di una tassa di iscrizione pari ad € 30 per ogni atleta, per ogni singola gara da corrispondere all’organizzatore. La partecipazione degli atleti stranieri dei team italiani a gare regionali è subordinata alla partenza di almeno 4 atleti italiani della medesima società. Non è consentita la partecipazione di squadre UCI WorldTeams, di squadre UCI Pro Teams. È ammessa la partecipazione di squadre continental italiane, sulla base di quanto previsto dalle norme FCI Attività Squadre Continental UCI 2024. Nella classe 1.19 sono ammessi atleti Elite s.c. con età massima di 27 anni per gli italiani e 25 per gli stranieri.
 
 La direzione di corsa che riscontrasse la presenza di condizioni che pongano a repentaglio l’incolumità dei corridori e la regolarità della gara, può decidere di fermare i corridori, come disposto dall’art. 82 del RTAA. Sono concessi trasferimenti tra la partenza ufficiosa e quella ufficiale fino ad un massimo di Km 10.
 
@@ -326,17 +326,23 @@ Si possono organizzare riunioni tipo pista per le categorie: Juniores, Elite s.c
 
 ### 4.4 Prescrizioni
 
-Inoltre, l’organizzatore, deve proteggere gli atleti e tutta la carovana lungo il percorso di gara attuando quelle procedure specifiche indicate nel R.T.A.A. e nelle varie ordinanze e autorizzazioni prescritte dalle autorità-enti preposti
+Inoltre, l’organizzatore, deve proteggere gli atleti e tutta la carovana lungo il percorso di gara attuando quelle procedure specifiche indicate nel R.T.A.A. e nelle varie ordinanze e autorizzazioni prescritte dalle autorità-enti preposti. Tutti gli autisti di auto devono avere max 75 anni e per le moto max 72 anni.
 
 ### 4.5 Partecipazione a gare regionali e nazionali della categoria juniores
-Nelle sole giornate in cui sono previste una o due gare sul territorio nazionale (regionale/nazionale/internazionale), nelle gare regionali ogni squadra potrà partecipare con un massimo di 6 atleti qualora il numero d’iscritti sia superiore a 200 o superiore a limitazioni più restrittive.
+Nelle sole giornate in cui sono previste una o due gare sul territorio nazionale (regionale/nazionale/internazionale), nelle gare regionali ogni squadra potrà partecipare con un massimo di 6 atleti qualora il numero d’iscritti sia superiore a 200 o superiore a limitazioni più restrittive. 
+
+Nelle gare regionali maschili ogni squadra potrà partecipare con un massimo di 10 atleti ad esclusione della società organizzatrice dell’evento che potrà partire con tutti i suoi elementi. Nelle prove in cui si assegna il titolo di campione regionale gli atleti residenti nella regione in cui si assegna il titolo non concorrono a formare il numero massimo di atleti per singola società
 
 ## 5.0 DISPOSIZIONI GARE DI UN GIORNO
 
 ### 5.1 Disposizioni GARE NAZIONALI
 5.1.1 Partecipazione
 
-La gara è ad invito e gli organizzatori devono, nel regolamento particolare di gara, la composizione numerica delle squadre che intendono invitare alla loro manifestazione, e assicurare che ad ogni squadra partecipante vengano corrisposte le eventuali previdenze economiche concordate, come da bollettino di ingaggio. Alle gare nazionali possono partecipare società con un minimo di quattro (4) atleti/e partenti e con un massimo di sette (7) atleti/e. È obbligatorio predisporre il regolamento particolare di corsa (in lingua francese o inglese e in italiano). In mancanza di particolari disposizioni emanate dalla STF - settore Strada, l’organizzatore è libero di invitare le formazioni italiane o straniere in base alle limitazioni indicate in ciascuna classe ed in base alla tipologia delle squadre ammissibili. È ammessa la partecipazione di squadre miste esclusivamente previa autorizzazione della STF settore Strada. Nelle gare di classe 1.15 e 1.16 sono ammesse squadre miste composte da atlete italiane e/o straniere appartenenti a più squadre non presenti al via. Gli atleti/e di una squadra mista devono indossare in corsa la stessa maglia.
+La gara è ad invito e gli organizzatori devono, nel regolamento particolare di gara, la composizione numerica delle squadre che intendono invitare alla loro manifestazione, e assicurare che ad ogni squadra partecipante vengano corrisposte le eventuali previdenze economiche concordate, come da bollettino di ingaggio. 
+
+Alle gare nazionali possono partecipare società con un minimo di quattro (4) atleti/e partenti e con un massimo di sette (7) atleti/e. Nelle gare di classe 1.15 e 1.16 possono partecipare società con un minimo di quattro (4) atleti/e partenti e con un massimo di dieci (10) atleti/e.
+
+È obbligatorio predisporre il regolamento particolare di corsa (in lingua francese o inglese e in italiano). In mancanza di particolari disposizioni emanate dalla STF - settore Strada, l’organizzatore è libero di invitare le formazioni italiane o straniere in base alle limitazioni indicate in ciascuna classe ed in base alla tipologia delle squadre ammissibili. È ammessa la partecipazione di squadre miste esclusivamente previa autorizzazione della STF settore Strada. Nelle gare di classe 1.15 e 1.16 sono ammesse squadre miste composte da atlete italiane e/o straniere appartenenti a più squadre non presenti al via. Gli atleti/e di una squadra mista devono indossare in corsa la stessa maglia.
 
 5.1.2 Iscrizioni e Bollettino d’ingaggio
 
@@ -348,7 +354,7 @@ L’organizzatore deve consegnare al Collegio di Giuria, nei termini previsti da
 
 5.1.4 Verifica licenze
 
-Le operazioni devono terminare almeno una ora e mezza prima della partenza. La verifica licenze può essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3 o Dirigente della società, che dovrà presentare al Collegio di Giuria le licenze dei propri atleti partenti. Ogni responsabile di squadra ha facoltà di sostituire i corridori titolari assenti al momento della verifica licenze, con le due riserve confermate.
+Le operazioni devono terminare almeno una ora e mezza prima della partenza. La verifica licenze può essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3, che dovrà presentare al Collegio di Giuria le licenze dei propri atleti partenti. Ogni responsabile di squadra ha facoltà di sostituire i corridori titolari assenti al momento della verifica licenze, con le due riserve confermate.
 
 5.1.5 Trasferimenti
 
@@ -356,7 +362,7 @@ Sono concessi dalla partenza ufficiosa a quella ufficiale, fino ad un massimo di
 
 5.1.6 Vetture delle società
 
-La riunione tecnica fra Direttore di Corsa, Collegio di Giuria, Tecnico di ciclismo TI2,TA2,TA3 o Dirigenti di Società tesserati, STF si svolgerà almeno 1 ora prima della partenza e l’orario stabilito deve essere indicato nel programma gara. In tutte le prove il sorteggio verrà effettuato tramite dei biglietti con sopra scritto il nome delle squadre. Il primo nome uscito si vedrà attribuire il primo posto; il secondo nome uscito il secondo posto etc. In tutte le prove l’ordine delle vetture potrà, al bisogno, essere rettificato dal Presidente del Collegio dei commissari; ogni modifica sarà comunicata a tutto il seguito tramite “radio tour”. In tutte le gare il sorteggio è effettuato nel corso della riunione tecnica da parte del Direttore di Corsa. Il sorteggio delle ammiraglie al seguito deve essere effettuato senza distinzione di tipologia di società. Il sorteggio previsto per le vetture sociali al seguito della gara verrà limitato alle sole autovetture con un’altezza massima di metri 1, 66 e saranno inserite solo le squadre rappresentate alla riunione dei direttori sportivi e che hanno confermato i loro corridori partenti nel termine della verifica licenze. Le squadre escluse dal primo sorteggio per quanto sopra parteciperanno ad un secondo sorteggio. Gli automezzi aventi un’altezza superiore a mt. 1,66, non rientrano nei sorteggi e pertanto sono obbligati a seguire la gara in coda alla carovana. Le autovetture dell’organizzazione (cambio ruote, Giuria, Direzione di Corsa, Medico di gara, Radio informazioni, Strutture e Commissioni), devono avere l’altezza massima di metri 1,66. Le vetture sociali devono avere obbligatoriamente a bordo, un proprio Tecnico di ciclismo TI2,TA2,TA3. I finestrini delle vetture delle società al seguito di una corsa non devono essere coperti con qualsiasi cosa che ostruisca la visibilità attraverso il veicolo o essere ostruiti in maniera significativa da adesivi o scritte.
+La riunione tecnica fra Direttore di Corsa, Collegio di Giuria, Tecnico di ciclismo TI2,TA2,TA3 tesserati, STF si svolgerà almeno 1 ora prima della partenza e l’orario stabilito deve essere indicato nel programma gara. In tutte le prove il sorteggio verrà effettuato tramite dei biglietti con sopra scritto il nome delle squadre. Il primo nome uscito si vedrà attribuire il primo posto; il secondo nome uscito il secondo posto etc. In tutte le prove l’ordine delle vetture potrà, al bisogno, essere rettificato dal Presidente del Collegio dei commissari; ogni modifica sarà comunicata a tutto il seguito tramite “radio tour”. In tutte le gare il sorteggio è effettuato nel corso della riunione tecnica da parte del Direttore di Corsa. Il sorteggio delle ammiraglie al seguito deve essere effettuato senza distinzione di tipologia di società. Il sorteggio previsto per le vetture sociali al seguito della gara verrà limitato alle sole autovetture con un’altezza massima di metri 1, 66 e saranno inserite solo le squadre rappresentate alla riunione dei direttori sportivi e che hanno confermato i loro corridori partenti nel termine della verifica licenze. Le squadre escluse dal primo sorteggio per quanto sopra parteciperanno ad un secondo sorteggio. Gli automezzi aventi un’altezza superiore a mt. 1,66, non rientrano nei sorteggi e pertanto sono obbligati a seguire la gara in coda alla carovana. Le autovetture dell’organizzazione (cambio ruote, Giuria, Direzione di Corsa, Medico di gara, Radio informazioni, Strutture e Commissioni), devono avere l’altezza massima di metri 1,66. Le vetture sociali devono avere obbligatoriamente a bordo, un proprio Tecnico di ciclismo TI2,TA2,TA3. I finestrini delle vetture delle società al seguito di una corsa non devono essere coperti con qualsiasi cosa che ostruisca la visibilità attraverso il veicolo o essere ostruiti in maniera significativa da adesivi o scritte.
 
 5.1.7 Rifornimento
 
@@ -374,7 +380,7 @@ L’organizzazione deve predisporre:
 - tre autovetture per servizio cambio ruote, con personale e ruote efficienti. Essendo previsto anche il cambio di bicicletta, le vetture del cambio ruote devono disporre anche di 3 biciclette di scorta di misure diverse.
 - un servizio di collegamento radio, solo ricevente, per tutta la carovana.
 - un servizio di collegamento radio ricetrasmittente tra le vetture del Direttore di Organizzazione, del Collegio di Giuria (anche per i Giudici in moto), del cambio ruote, dell’assistenza medica e degli automezzi inizio/fine gara;
-- 4 autovetture per i componenti del Collegio di Giuria, di cui almeno una con il tettuccio apribile per il Presidente;
+- 4 autovetture per i componenti del Collegio di Giuria, di cui almeno una con il tettuccio apribile per il Presidente ed una eventuale seconda vettura con il tettuccio per il componente di giuria;
 - 1 motocicletta con conducente per il Giudice in moto (gare in linea);
 - 1 autovettura per l’Ispettore al controllo antidoping;
 - 1 autovettura a disposizione della STF - settore Strada;
@@ -387,11 +393,12 @@ L’organizzazione deve predisporre:
 - 1 pulmino per gli atleti ritirati, posizionato subito dopo l’ambulanza e prima della vettura “fine gara ciclistica”;
 - servizio fotofinish o similare;
 - 1 autovettura per il Commissario Tecnico, o motocicletta, se espressamente richiesta;
-- servizio di cronometraggio all’arrivo (a cura della F.I.Cr..) nelle gare a frazioni, aventi classifica finale a tempi e nelle gare a cronometro;
+- servizio di cronometraggio all’arrivo (a cura di un servizio di cronometraggio qualificato) nelle gare a frazioni, aventi classifica finale a tempi e nelle gare a cronometro;
 - gli addetti in moto per servizio TV e/o fotografico saranno disciplinati in gara dalla Direzione di Corsa e/o Collegio di Giuria, nel rispetto delle vigenti norme regolamentari;
-- è consigliato il servizio di cronometraggio elettronico (video-link e transponder) a cura della F.I.Cr..
+- è consigliato il servizio di cronometraggio elettronico (video-link e transponder) a cura di servizio di cronometraggio qualificato.
 - Inoltre, l’organizzatore, deve proteggere gli atleti e tutta la carovana lungo il percorso di gara attuando quelle procedure specifiche indicate nel R.T.A.A. e nelle varie ordinanze e autorizzazioni prescritte dalle autorità- enti preposti.
 - Veicoli per i Direttori di Corsa
+- Tutti gli autisti di auto devono avere max 75 anni e per le moto max 72 anni;
 
 5.1.10 Condizioni economiche
 
@@ -401,7 +408,11 @@ Le condizioni economiche devono essere indicate nel bollettino d’ingaggio.
 
 È obbligatoria la presenza del Direttore di Corsa e Vice Direttore di Corsa, sia nelle gare nazionali che internazionali.
 
-5.1.12 Comunicazione risultati
+5.1.12 Giudici di Gara
+
+Vitto e alloggio è a carico della società organizzatrice, con alloggio in camera singola.
+
+5.1.13 Comunicazione risultati
 
 Al termine della gara, l’organizzatore deve inviare a mezzo e-mail alla STF – settore Strada (strada@federciclismo.it), l’elenco dei partenti e l’ordine d’arrivo inoltre dovrà provvedere entro 48h dalla fine dell’evento al caricamento sul sistema informatico dei risultati della gara stessa.
 
@@ -422,9 +433,11 @@ Al termine della gara l’organizzatore deve inviare a mezzo e-mail alla STF –
 
 La gara è considerata ad invito e gli organizzatori devono, nel regolamento particolare di gara, segnalare la composizione numerica delle squadre che intendono invitare alla loro manifestazione, e assicurare che ad ogni società partecipante vengano corrisposte le eventuali previdenze economiche concordate, come da bollettino di ingaggio.
 
-La composizione numerica delle squadre è identica a quella stabilita dalle norme per le gare a tappe internazionali. È obbligatorio predisporre il regolamento particolare di corsa (redatto in francese o inglese ed in italiano). In mancanza di particolari disposizioni emanate dalla STF- Settore strada, l’organizzatore è libero di invitare le formazioni italiane o straniere, in base alle limitazioni indicate in ciascuna classe ed in base alla tipologia delle squadre ammissibili. È ammessa la partecipazione di squadre miste esclusivamente previa autorizzazione della STF settore strada.
+La composizione numerica delle squadre è identica a quella stabilita dalle norme per le gare a tappe internazionali: se il numero dei corridori titolari per squadra è fissato in 4, 5 o 6, una squadra non potrà prendere il via con meno di 4 corridori. Se il numero dei corridori titolari per squadra è fissato in 7 la squadra non potrà prendere il via con meno di 5 corridori.
 
-Nelle gare di classe 2.15 e 2 .16 sono ammesse squadre miste composte da atlete italiane e/o straniere appartenenti a più squadre non presenti al via. Gli atleti/e di una squadra mista devono indossare in corsa identica maglia.
+È obbligatorio predisporre il regolamento particolare di corsa (redatto in francese o inglese ed in italiano). In mancanza di particolari disposizioni emanate dalla STF- Settore strada, l’organizzatore è libero di invitare le formazioni italiane o straniere, in base alle limitazioni indicate in ciascuna classe ed in base alla tipologia delle squadre ammissibili. È ammessa la partecipazione di squadre miste esclusivamente previa autorizzazione della STF settore strada.
+
+Nelle gare di classe 2.15 e 2 .16 sono ammesse squadre miste composte da atlete italiane e/o straniere appartenenti a più squadre non presenti al via. Gli atleti/e di una squadra mista devono indossare in corsa identica maglia. Nelle gare di classe 2.15 e 2.16 possono partecipare società con un minimo di quattro (4) atleti/e partenti e con un massimo di dieci (10) atleti/e
 
 6.1.2 Bollettino d’ingaggio
 
@@ -436,7 +449,7 @@ L’organizzatore deve consegnare al Collegio di Giuria, nei termini previsti da
 
 6.1.4 Verifica licenze - Riunione tecnica
 
-La verifica delle licenze deve svolgersi il giorno antecedente la 1° tappa e la stessa deve essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3 o Dirigente della Società delle squadre partecipanti. Seguirà la riunione tecnica fra il responsabile della Società Organizzatrice, il Direttore di Corsa, il Collegio di Giuria, il Rappresentante della STF, i Tecnici di ciclismo TI2,TA2,TA3 delle squadre partecipanti.
+La verifica delle licenze deve svolgersi il giorno antecedente la 1° tappa e la stessa deve essere effettuata dal Tecnico di ciclismo TI2,TA2,TA3 delle squadre partecipanti. Seguirà la riunione tecnica fra il responsabile della Società Organizzatrice, il Direttore di Corsa, il Collegio di Giuria, il Rappresentante della STF, i Tecnici di ciclismo TI2,TA2,TA3 delle squadre partecipanti.
 
 6.1.5 Trasferimenti
 
@@ -454,7 +467,7 @@ L’organizzazione deve inoltre predisporre:
 - tre autovetture per servizio cambio ruote, con personale e ruote efficienti. Essendo previsto anche il cambio di bicicletta, le vetture del cambio ruote devono disporre anche di 3 biciclette di scorta di misure diverse;
 - un servizio di collegamento radio, solo ricevente, per tutta la carovana;
 - un servizio di collegamento radio ricetrasmittente tra le vetture del Direttore di Organizzazione, del Collegio di Giuria (anche per i Giudici in moto), del cambio ruote, dell’assistenza medica e degli automezzi inizio/fine gara;
-- 4 autovetture per i componenti del Collegio di Giuria, di cui almeno una con il tettuccio apribile per il Presidente;
+- 4 autovetture per i componenti del Collegio di Giuria, di cui almeno una con il tettuccio apribile per il Presidente ed una eventuale seconda vettura con il tettuccio per il componente di giuria;
 - 3 motociclette con conducente per i Giudici in moto;
 - 1 autovettura per l’Ispettore al controllo antidoping;
 - autovetture per i Direttori di Corsa;
@@ -468,10 +481,11 @@ L’organizzazione deve inoltre predisporre:
 - una vettura fine corsa con cartello indicante “fine gara ciclistica” conformi alle norme del C.d.S.;
 - 1 pulmino per gli atleti ritirati, posizionato subito dopo l’ambulanza e prima della vettura “fine gara ciclistica”;
 - 1 autovettura per il Commissario Tecnico, o motocicletta, se espressamente richiesta;
-- servizio di cronometraggio, servizio fotofinish ed elaborazione classifiche, a cura della F.I.Cr..
+- servizio di cronometraggio, servizio fotofinish ed elaborazione classifiche, a cura di servizio di cronometraggio qualificato.
 - gli addetti in moto per servizio TV e/o fotografico saranno disciplinati in gara dalla Direzione di Corsa e/o Collegio di Giuria, nel rispetto delle vigenti norme regolamentari;
-- è consigliato il servizio di cronometraggio elettronico (video-link e transponder) a cura della F.I.Cr..
+- è consigliato il servizio di cronometraggio elettronico (video-link e transponder) a cura di servizio di cronometraggio qualificato.
 - Inoltre, l’organizzatore, deve proteggere gli atleti e tutta la carovana lungo il percorso di gara attuando quelle procedure specifiche indicate nel R.T.A.A. e nelle varie ordinanze e autorizzazioni prescritte dalle autorità- enti preposti.
+- Tutti gli autisti di auto devono avere max 75 anni e per le moto max 72 anni;
 
 6.1.7 Maglie di leader
 
@@ -521,7 +535,12 @@ Gli organizzatori di gare a tappe, almeno 72 ore prima dell’inizio della manif
 
 6.1.16 Ospitalità ufficiali
 
-Nelle gare a tappe l'organizzatore deve assicurare il vitto e l’alloggio a: - Collegio di Giuria; - Cronometristi; - Addetti al controllo antidoping (Ispettore/Medico ed eventuale infermiere/a); - Commissario Tecnico; - Rappresentante STF – Settore Strada;
+Nelle gare a tappe l'organizzatore deve assicurare il vitto e l’alloggio a: 
+- Collegio di Giuria (in camere singole); 
+- Cronometristi; 
+- Addetti al controllo antidoping (Ispettore/Medico ed eventuale infermiere/a); 
+- Commissario Tecnico; 
+- Rappresentante STF – Settore Strada;
 
 6.1.17 Vitto ed alloggio
 
@@ -562,11 +581,12 @@ finale individuale.
 
 - SQUADRE NAZIONALI: Composta da corridori della stessa nazionalità autorizzate dalla Federazione di appartenenza.
 
-- SQUADRE CONTINENTALI: Squadre Continental italiane come previsto dalle norme “Squadre Continental 2023 ”.
+- SQUADRE CONTINENTALI: Squadre Continental italiane come previsto dalle norme “Squadre Continental 2024”.
 
 - SQUADRE FEMMINILI UCI: Squadre riconosciute e certificate dalla Federazione Nazionale del paese da cui proviene la maggioranza delle atlete registrate all’U.C.I.
 
-- RAPPRESENTATIVA REGIONALE (Valida anche per gare Internazionali): Composta da atleti di nazionalità italiana tesserati per società di uno stesso C.R. che ha effettuato la convocazione della Rappresentativa. Per le categorie Juniores m/f, è facoltà dei CC.RR. includere nelle proprie rappresentative regionali, ad esclusione dei Campionati Italiani, anche atleti stranieri regolarmente tesserati alla FCI (non sono ammessi atleta con categoria REG) con Società Italiane del C.R. che ha effettuato la convocazione della Rappresentativa.
+- RAPPRESENTATIVA REGIONALE (Valida anche per gare Internazionali): Elite ed Under23 e Juniores M/F: Composta da atleti di nazionalità italiana/estera tesserati FCI residenti nella regione che ha effettuato la convocazione della Rappresentativa. Per qualsiasi categoria non sono ammessi nelle rappresentative atleti con categoria REG.
+
 
 - RAPPRESENTATIVA INTERREGIONALE: (Valida anche per gare Internazionali) Composta da atleti di nazionalità italiana tesserati per società di più CC.RR. che devono effettuare la convocazione della Rappresentativa.
 
@@ -594,7 +614,7 @@ L’atleta è libero di indossare i pantaloncini della società d’appartenenza
 L’inserimento delle gare nei calendari Internazionali e Nazionali deve avvenire secondo le scadenze stabilite dalla STF – settore Strada attraverso i comunicati e con le modalità pubblicate sull’Organo ufficiale. La richiesta dovrà essere inviata, con allegato l’importo stabilito, alla STF - settore Strada ed ai CC.RR. di appartenenza (che dovranno esprimere il proprio parere).
 
 ### 8.2 Armonizzazione dei calendari
-La STF settore strada armonizzerà i calendari internazionali/nazionali/regionali juniores, under 23 ed elite per l’anno 202 3 con la collaborazione dei Comitati Regionali che dovranno inviarli alla STF entro il 31 dicembre 202 2. I calendari saranno definitivi dopo la pubblicazione da parte della STF. Ulteriori inserimenti/variazioni dei Comitati Regionali dovranno essere sottoposti alla STF settore strada.
+La STF settore strada armonizzerà i calendari internazionali/nazionali/regionali juniores, under 23 ed elite per l’anno 2024 con la collaborazione dei Comitati Regionali che dovranno inviarli alla STF entro il 10 gennaio 2024. I calendari saranno definitivi dopo la pubblicazione da parte della STF. Ulteriori inserimenti/variazioni dei Comitati Regionali dovranno essere sottoposti alla STF settore strada.
 
 
 ## 9.0 APPROVAZIONE GARE
@@ -651,106 +671,157 @@ Nei mesi di luglio ed agosto, si consiglia per le categorie juniores m/f, che le
 Per giustificati motivi, il chilometraggio massimo delle gare può essere aumentato del 5% del consentito dalle norme. Tale percentuale di scostamento è tollerata anche tra il chilometraggio dichiarato e quello effettivamente riscontrato dalla Giuria.
 
 ### 11.1 Juniores
-11.1.1 Il periodo di attività su strada è compreso fra la prima domenica di marzo e la terza domenica di ottobre. È tuttavia consentita la partecipazione a gare all’estero a decorrere dalla prima domenica di febbraio, previa richiesta di autorizzazione alla STF. Nelle gare regionali e nazionali – con esclusione delle gare internazionali – gli Juniores possono correre di domenica e negli altri giorni festivi, in gare in linea e criterium. A partire dal 1° luglio e fino al termine della stagione, gli juniores possono partecipare a due gare nel corso della stessa settimana. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. È consentito altresì l’organizzazione di gare infrasettimanali, senza alcuna autorizzazione da parte del C.F. (la partecipazione dell’atleta alla gara infrasettimanale è da considerarsi in luogo della domenica e/o della festività). È consentito altresì l’organizzazione di gare infrasettimanali (che non rientreranno nel computo settimanale e complessivo di gare degli atleti partecipanti) non festive a partire dal 1° di giugno su circuiti chiusi (autodromi, motovelodromi) con distanza ridotta del 30% sulla distanza classica. Le gare devono essere comprese in manifestazioni con minimo 4 gare di altre categorie. Possono correre tutti i giorni in gare a cronometro, tranne il lunedì. Dopo la fine della stagione agonistica si concede agli atleti del 2 ° anno di continuare l’attività con le categorie Under 23/Elite fino al termine del mese di ottobre.
+11.1.1 Il periodo di attività su strada è compreso fra la prima domenica di marzo e la terza domenica di ottobre. È tuttavia consentita la partecipazione a gare all’estero a decorrere dalla prima domenica di febbraio, previa richiesta di autorizzazione alla STF. 
 
-11.1.2 Il numero degli atleti partecipanti per società alle gare regionali è libero salvo eventuali disposizioni dei rispettivi CC.RR.
+L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà sul sistema informatico l’ordine di arrivo. Possono correre tutti i giorni in gare a cronometro e strada. Dopo la fine della stagione agonistica si concede agli atleti del 2° anno di continuare l’attività con le categorie Under 23/Elite fino al termine del mese di ottobre.
 
-11.1.3 Nel corso dell’anno ogni atleta può partecipare al massimo a 45 giornate di gara delle specialità su strada. Le prove di tipo pista, cronometro, Campionati Mondiali ed europei sono escluse dal conteggio. Non sono previsti vincoli sul numero di gare a tappe a cui un atleta può partecipare In ogni caso dovranno osservare un intervallo minimo di 10 giorni tra una gara a tappe e l’altra.
+11.1.2 [Abrogato]
+
+11.1.3 Nel corso dell’anno ogni atleta può partecipare al massimo a 45 giornate di gara delle specialità su strada, incluse le gare all’estero. Le prove di tipo pista, cronometro e tutte le gare in maglia della nazionale, sono escluse dal conteggio. Non sono previsti vincoli sul numero di gare a tappe a cui un atleta può partecipare.
 
 11.1.4 I Comitati delle regioni del Sud ed insulari, che ravvisano problematiche per la calda stagione, possono inoltrare richiesta di prolungare l’attività fino all’ultima domenica di ottobre.
 
-11.1.5 Si concede agli Juniores del 1^ anno, che durante il secondo anno nella cat. Allievi, non abbiano ottenuto più di 3 punti di valorizzazione nelle gare su strada (escluse le prove a cronometro), di gareggiare esclusivamente nelle sole gare regionali su strada (gare a frazioni comprese e prove valide per l’assegnazione di titoli comprese), ad esclusione delle prove uniche di Campionato e prove a cronometro, con la categoria allievi, previa autorizzazione del CR di appartenenza, adeguandosi alla regolamentazione della categoria stessa. Al conseguimento di 10 punti di valorizzazione, tali Juniores del 1^ anno, non potranno più partecipare a gare della categoria allievi e, previo accordo tra le parti (atleti, società e Comitato Regionale) potranno trasferirsi ad altra società nel corso della stagione (solo nel caso in cui la società di appartenenza non svolge attività nella categoria juniores).
+11.1.5 Si concede agli Juniores del 1^ anno, che durante il secondo anno nella cat. Allievi, non abbiano ottenuto più di 3 punti di valorizzazione nelle gare su strada (escluse le prove a cronometro), di gareggiare esclusivamente nelle sole gare regionali su strada (gare a frazioni comprese e prove valide per l’assegnazione di titoli comprese), ad esclusione delle prove uniche di Campionato e prove a cronometro, con la categoria allievi, previa autorizzazione del CR di appartenenza, adeguandosi alla regolamentazione della categoria stessa. Al conseguimento di 10 punti di valorizzazione, tali Juniores del 1^ anno, non potranno più partecipare a gare della categoria allievi.
+
+Previo accordo tra le parti (atleti, società e Comitato Regionale) potranno trasferirsi in qualsiasi momento, ad altra società nel corso della stagione (solo nel caso in cui la società di appartenenza non svolge attività nella categoria juniores) e potranno partecipare esclusivamente con la categoria Juniores.
 
 11.1.6 Partecipazione per residenza:
-- alle competizioni che assegnano titoli individuali nazionali e regionali e nelle manifestazioni riservate alle rappresentative regionali gli atleti, se convocati, partecipano con la rappresentativa della regione di residenza; la discriminante è la residenza dell'atleta indipendentemente dall'anno in cui si è trasferito.
-- nelle gare di Campionato Regionale dovrà partecipare senza squadra, mentre nelle prove valide come campionato regionale, la partecipazione sarà libera e concorrerà per il titolo;
-- nelle gare di Campionato Regionale la validazione dell’elenco degli iscritti deve essere fatta dalla Struttura Tecnica Regionale.
+- alle competizioni che assegnano titoli individuali nazionali, regionali e provinciali e nelle manifestazioni dove è prevista la partecipazione delle rappresentative regionali gli atleti gareggiano e/o concorrono al titolo in base alla residenza determinata dalla validazione del 1° tesseramento annuale.
 
-11.1.7 Ciascuna Società della categoria Juniores non potrà tesserare più di due atleti provenienti dalla cat. Allievi che abbiano superato a fine luglio nell’ultimo anno più di 25 (venticinque) punti in gare su strada (con esclusione dei punteggi per titoli, delle gare a cronometro e delle tipo pista). Da questa formula sono esclusi gli atleti provenienti dalla Società stessa. È consentito inoltre il tesseramento di 1 ulteriore atleta proveniente dalla cat. Allievi che abbiano superato a fine agosto nell’ultimo anno più di 25 (venticinque) punti a condizione che vengano tesserato 2 Atleti con meno di 5 punti non provenienti dal vivaio.
+11.1.7 Ciascuna Società della categoria Juniores non potrà tesserare più di due atleti provenienti dalla cat. Allievi che abbiano superato a fine luglio nell’ultimo anno più di 20 (venti) punti in gare su strada (con esclusione dei punteggi per titoli, delle gare a cronometro e delle tipo pista). Da questa formula sono esclusi gli atleti provenienti dalla Società stessa. È consentito inoltre il tesseramento di 1 ulteriore atleta proveniente dalla cat. Allievi che abbiano superato a fine agosto nell’ultimo anno più di 20 (venti) punti a condizione che vengano tesserato 2 Atleti con meno di 5 punti non provenienti dal vivaio.
+
+11.1.8  Alle Società della cat. Juniores m/f sono consentite attività “miste interregionali” solo tra due società di Regioni diverse, previo consenso dei due Presidenti dei CCRR. Le richieste di “Team misti interregionali” devono essere presentate alla STF entro e non oltre il 31 gennaio di ogni anno e verranno respinte tutte le richieste pervenute fuori termine.
+
+Questi “Team misti interregionali” devono avere almeno un minimo di 5 atleti tesserati di ciascuna delle due società. Unico obbligo per i corridori regionali partecipare obbligatoriamente alle prove di Campionato regionale e/o eventuali prove Indicative determinate dai CCRR. In caso di mancata partecipazione alle suddette prove viene attribuita al Giudice Sportivo Regionale del C.R. cui appartiene la società inadempiente, la competenza in materia sanzionatoria. 
+
+Devono inoltre essere rispettate le seguenti condizioni:
+
+Donne Junior:
+- I “Team misti interregionali” devono vestire in gara la stessa maglia;
+
+Junior Maschile:
+- I “Team misti interregionali” devono vestire in gara la stessa maglia.
+- I “Team misti interregionali” non possono tesserare più di due (2) atleti del I° anno, che nell’ultima stagione agonistica a fine luglio, nella categoria inferiore, hanno ottenuto più di 20 punti esclusivamente in gare su strada. Da questo conteggio sono esclusi gli atleti cresciuti nelle stesse Società;
+- quando ad una gara partecipa un “Team misto interregionale”, alla stessa gara non possono partecipare altri atleti tesserati con le singole Società dello stesso Team misto interregionale. Uniche deroghe sono concesse, in presenza di atleti inseriti in rappresentative Nazionali;
+- I “Team misti interregionali” (formate da un massimo di due Società) inseriti negli elenchi pubblicati, possono partecipare alle gare regionali con un massimo di 10 atleti partenti.
+- INDUMENTI: Gli atleti che partecipano a gare come squadra con “Team misti interregionali”, devono vestire in gara gli stessi indumenti, riportando la denominazione sociale indicata sulla tessera.
+- NORME SANZIONATORIE: Mancata autosegnalazione alla STF - 15 giorni di sospensione per ogni atleta ed ammenda di € 2500 a ciascuna Società. 
+
 
 ### 11.2 Elite-Under 23
-11.2.1 Il periodo di attività su strada inizia il sabato che precede l’ultima domenica di febbraio e termina il 31 ottobre. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Gli Elite s.c. e gli Under 23 possono correre in gare in linea, a criterium ed a cronometro tutti i giorni della settimana.
+11.2.1 Il periodo di attività su strada inizia l’ultimo sabato di febbraio e termina il 31 ottobre. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Gli Elite s.c. e gli Under 23 possono correre in gare in linea, a criterium ed a cronometro tutti i giorni della settimana.
 
-11.2.2 Nelle gare nazionali e regionali della categoria Elite/Under 23 possono partecipare atleti italiani di età massima 27 anni (nati nel 1996 ), ed atleti stranieri di età massima 25 anni (nati nel 1998 ). Ogni società può tesserare al massimo due atleti elite italiani di anni 27 e oltre. Gli atleti italiani di età superiore ai 2 7 anni e gli atleti stranieri di età superiore ai 25 anni possono svolgere attività limitata alle gare internazionali.
+11.2.2 Nelle gare nazionali e regionali della categoria Elite/Under 23 possono partecipare atleti italiani di età massima 27 anni (nati nel 1997), ed atleti stranieri di età massima 25 anni (nati nel 1999). Ogni società può tesserare al massimo due atleti elite italiani di anni 27 e oltre. Gli atleti italiani di età superiore ai 2 7 anni e gli atleti stranieri di età superiore ai 25 anni possono svolgere attività limitata alle gare internazionali.
 
 11.2.3 Gli atleti Under 23 di 1 9 - 20 anni, non hanno limiti di partecipazione sul numero di gare a tappe.
 
-11.2.4 Gli atleti Under 23 di 19 - 20 anni non potranno effettuare nel corso della stagione più di 60 giornate di gare complessive: tale limite si intende comprensivo anche delle giornate riferite alle gare a tappe.
+11.2.4 [Abrogato]
 
 11.2.5 Gli atleti già a contratto (ex-professionisti), che si tesserano per società dilettantistiche FCI, possono svolgere attività esclusivamente in gare nazionali ed internazionali, ferma restando la possibilità di partecipare ai Campionati Nazionali. Tale norma vale anche per l’atleta straniero tesserato con una squadra italiana. Sono esclusi da tale norma gli atleti italiani Under 23.
 
-11.2.6 Per le gare regionali riservate alle categorie Elite/Under 23 ed Under 23, ogni società può iscrivere un massimo 10 atleti con facoltà di sostituire gli eventuali assenti al momento della verifica licenze: da tale computo sono esclusi gli atleti under 23 del primo anno (2004) per un massimo di tre atleti e salvo quanto previsto dall’art. 4.2.1.
+11.2.6 Per le gare regionali riservate alle categorie Elite/Under 23 ed Under 23, ogni società può iscrivere un massimo 10 atleti con facoltà di sostituire gli eventuali assenti al momento della verifica licenze: da tale computo sono esclusi gli atleti under 23 del primo anno (2005) per un massimo di tre atleti e salvo quanto previsto dall’art. 4.2.1.
 
 11.2.7 Si concede agli Under 23 di 19 anni che durante il secondo anno Juniores non abbiano ottenuto più di 3 punti di valorizzazione nelle gare su strada (escluse le prove a cronometro), di gareggiare esclusivamente nelle sole gare regionali su strada (gare a frazioni e prove valide per l’assegnazione di titoli comprese) ad esclusione delle prove uniche di Campionato e prove a cronometro, con la categoria Juniores, previa autorizzazione del CR di appartenenza, adeguandosi alla regolamentazione della categoria stessa. Al conseguimento di 10 punti di valorizzazione, tali Under 23 di 19 anni non potranno più partecipare a gare della categoria Juniores e, previo accordo tra le parti (atleti, società e Comitato Regionali) potranno trasferirsi ad altra società nel corso della stagione (solo nel caso in cui la società di appartenenza non svolge attività nella categoria Under 23).
 
 11.2.8 Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto.
 
-11.2.9 Ogni Società della categoria Elite/Under 23 non potrà tesserare più di TRE atleti, provenienti dalla cat. Juniores, che abbiano superato a fine luglio, nell’ultimo anno, i 35 (trentacinque) punti in gare su strada (con esclusione dei punteggi per titoli, gare a cronometro ed in pista). È consentito inoltre il tesseramento di 1 ulteriore atleta proveniente dalla cat. Juniores che abbia superato a fine luglio nell’ultimo anno più di 35 (trentacinque) punti a condizione che venga tesserato 1 Atleta con meno di 1 0 punti. Da questa limitazione sono esclusi gli atleti provenienti dalla società stessa e gli atleti “fuori quota straniero”
+11.2.9 Ogni Società della categoria Elite/Under 23 non potrà tesserare più di QUATTO atleti, provenienti dalla cat. Juniores, che abbiano superato a fine luglio, nell’ultimo anno, i 35 (trentacinque) punti in gare su strada (con esclusione dei punteggi per titoli, gare a cronometro ed in pista). È consentito inoltre il tesseramento di 1 ulteriore atleta proveniente dalla cat. Juniores che abbia superato a fine luglio nell’ultimo anno più di 35 (trentacinque) punti a condizione che venga tesserato 1 Atleta con meno di 1 0 punti. Da questa limitazione sono esclusi gli atleti provenienti dalla società stessa e gli atleti “fuori quota straniero”
 
 ### 11.3 Gare riservate agli Under 21
 Viene confermata una tipologia di gara in linea che prevede la partecipazione di soli atleti Under 21 (19/20 anni). A tali manifestazioni non possono partecipare atleti stranieri (ad esclusione dei “fuori quota straniero”), anche se previsto dagli accordi frontalieri (ad esclusione dei cittadini di S. Marino); Ogni società può partecipare senza alcun limite massimo di atleti. In merito alle modalità di partecipazione ogni C.R., prima dell’inizio dell’attività agonistica potrà emanare specifiche disposizioni.
 
 ### 11.4 Donne Junior
-11.4.1 La partecipazione a tali gare, ad esclusione di quelle internazionali aperte solo alle donne Junior, è riservata alle atlete Junior (17/18 anni) con facoltà di partecipazione per le donne Under 23 di 19 anni. La facoltà di partecipazione delle donne Under 23 di 1 9 anni con la categoria delle Junior, decade al raggiungimento di 25 (venticinque) punti ottenuti come da art. 11.4.10. La gara avrà ordine di arrivo e montepremi unico, con punteggio di valorizzazione FCI solo per le prime 5 donne junior classificate. Quando in Italia è prevista una gara cat. donne Elite/Under 23, le donne Under 23 di 19 anni sono obbligate a gareggiare esclusivamente con le donne Elite/Under 23. Quando non sono programmate gare della cat. donne junior nella propria regione, le società con un massimo di due atlete tesserate nella categoria donne junior non sono obbligate a partecipare a gare della categoria donne junior fuori regione. Le atlete appartenenti a società facenti parte dei CC.RR. aderenti al "Piano del Ciclismo solidale” sono esentate dall'obbligo di partecipazione alle gare donne juniores e donne open.
+11.4.1
+La partecipazione a tali gare, ad esclusione di quelle internazionali aperte solo alle donne Junior, è riservata alle atlete Junior (17/18 anni) con facoltà di partecipazione per le donne Under 23 di 19 anni. La facoltà di partecipazione delle donne Under 23 di 1 9 anni con la categoria delle Junior, decade al raggiungimento di 25 (venticinque) punti ottenuti come da art. 11.4.10. La gara avrà ordine di arrivo e montepremi unico, con punteggio di valorizzazione FCI solo per le prime 5 donne junior classificate. Quando in Italia è prevista una gara cat. donne Elite/Under 23, le donne Under 23 di 19 anni sono obbligate a gareggiare esclusivamente con le donne Elite/Under 23. Quando non sono programmate gare della cat. donne junior nella propria regione, le società con un massimo di due atlete tesserate nella categoria donne junior non sono obbligate a partecipare a gare della categoria donne junior fuori regione. Le atlete appartenenti a società facenti parte dei CC.RR. aderenti al "Piano del Ciclismo solidale” sono esentate dall'obbligo di partecipazione alle gare donne juniores e donne open.
 
-11.4.2 Non è prevista una stesura dei calendari da parte dei CR. La formazione del calendario è di competenza della STF – settore Strada.
+11.4.2
+Non è prevista una stesura dei calendari da parte dei CR. La formazione del calendario è di competenza della STF – settore Strada.
 
-11.4.3 Il periodo di attività su strada è compreso tra la prima domenica di marzo e la terza domenica di ottobre. È tuttavia consentita la partecipazione a gare all’estero a decorrere dalla prima domenica di febbraio, previa richiesta di autorizzazione alla STF. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. È consentito altresì l’organizzazione di gare infrasettimanali, senza alcuna autorizzazione da parte del C.F. (la partecipazione dell’atleta alla gara infrasettimanale è da considerarsi in luogo della domenica e/o della festività). È consentito altresì l’organizzazione di gare infrasettimanali (che non rientreranno nel computo settimanale e complessivo di gare degli atleti partecipanti) non festive a partire dal 1° di giugno su circuiti chiusi (autodromi, motovelodromi) con distanza ridotta del 30% sulla distanza classica. Le gare devono essere comprese in manifestazioni con minimo 4 gare di altre categorie. Possono correre tutti i giorni in gare a cronometro, tranne il lunedì. Dopo la fine della stagione agonistica si concede alle atlete del 2 ° anno di continuare l’attività con le categorie Under 23/Elite fino al termine del mese di ottobre.
+11.4.3
+Il periodo di attività su strada è compreso tra la prima domenica di marzo e la terza domenica di ottobre. È tuttavia consentita la partecipazione a gare all’estero a decorrere dalla prima domenica di febbraio, previa richiesta di autorizzazione alla STF. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Dopo la fine della stagione agonistica si concede agli atleti del 2° anno di continuare l’attività con le categorie Under 23/Elite fino al termine del mese di ottobre.
 
-11.4.4 Nel corso dell’anno ogni atleta può partecipare al massimo a 45 giornate di gara delle specialità su strada. Le prove di tipo pista, cronometro, Campionati Mondiali ed europei sono escluse dal conteggio. Non sono previsti vincoli sul numero di gare a tappe a cui un atleta può partecipare In ogni caso dovranno osservare un intervallo minimo di 10 giorni tra una gara a tappe e l’altra.
+11.4.4
+Nel corso dell’anno ogni atleta può partecipare al massimo a 45 giornate di gara delle specialità su strada, incluse le gare all’estero.
+Le prove di tipo pista, cronometro, gare in maglia della nazionale e tutte le gare in maglia della nazionale, sono escluse dal conteggio. 
+Non sono previsti vincoli sul numero di gare a tappe a cui un atleta può partecipare 
 
-11.4.5 Nelle gare nazionali potranno partecipare un massimo di tre squadre straniere.
+11.4.5
+Nelle gare nazionali potranno partecipare un massimo di tre squadre straniere.
 
-11.4.6 È obbligatorio l’allestimento di una adeguata e idonea sistemazione logistica, con spogliatoi e docce, nei pressi della zona di ritrovo e dell’arrivo.
+11.4.6
+È obbligatorio l’allestimento di una adeguata e idonea sistemazione logistica, con spogliatoi e docce, nei pressi della zona di ritrovo e dell’arrivo.
 
-11.4.7 Qualora in Italia siano in programma gare a loro riservate, le Donne Junior non potranno partecipare a gare all’estero (ivi comprese le gare frontaliere), a meno che non siano incluse in una Rappresentativa Nazionale e/o Regionale. Quando in Italia non sono programmate gare a loro riservate, le Donne Junior, comprese le atlete straniere tesserate con società italiane, possono correre in promiscuità con le categorie maschili “Allievi” ed “Junior”, adeguandosi alla regolamentazione di dette categorie.
+11.4.7
+Qualora in Italia siano in programma gare a loro riservate, le Donne Junior non potranno partecipare a gare all’estero (ivi comprese le gare frontaliere), a meno che non siano incluse in una Rappresentativa Nazionale e/o Regionale. Quando in Italia non sono programmate gare a loro riservate, le Donne Junior, comprese le atlete straniere tesserate con società italiane, possono correre in promiscuità con le categorie maschili “Allievi” ed “Junior”, adeguandosi alla regolamentazione di dette categorie.
 
-11.4.8 Dal 1° agosto le donne Junior del 2° anno che hanno ottenuto più di 30 punti in gare su strada, hanno facoltà di correre – in gare nazionali – con la categoria donne Elite/Under 23 , utilizzando il rapporto libero come per le categorie superiori.
+11.4.8
+Dal 1° agosto le donne Junior del 2° anno che hanno ottenuto più di 20 punti in gare su strada, hanno facoltà di correre – in gare nazionali – con la categoria donne Elite/Under 23 , utilizzando il rapporto libero come per le categorie superiori.
 
-11.4.9 Nelle gare promiscue con le under 23 di 19 anni - La gara avrà ordine di arrivo e montepremi unico. Solo le prime 5 donne junior classificate acquisiranno il punteggio di valorizzazione FCI. Le donne Elite del primo anno avranno la facoltà di gareggiare con le donne Junior, fatta eccezione per i Campionati Italiani, fino al raggiungimento di 2 5 punti derivanti dall'ordine di arrivo unico. Nelle gare di un giorno è ammessa la partecipazione di singole atlete di nazionalità italiana e straniera tesserate in Italia, nonché di singole atlete italiane tesserate con squadre straniere. Nelle gare nazionali a tappe è autorizzata la formazione di squadre miste formate da atlete di nazionalità italiana e/o straniera, la cui società non sia presente al via.
+11.4.9
+Nelle gare promiscue con le under 23 di 19 anni - La gara avrà ordine di arrivo e montepremi unico. Solo le prime 5 donne junior classificate acquisiranno il punteggio di valorizzazione FCI. Le donne Elite del primo anno avranno la facoltà di gareggiare con le donne Junior, fatta eccezione per i Campionati Italiani, fino al raggiungimento di 2 5 punti derivanti dall'ordine di arrivo unico. Nelle gare di un giorno è ammessa la partecipazione di singole atlete di nazionalità italiana e straniera tesserate in Italia, nonché di singole atlete italiane tesserate con squadre straniere. Nelle gare nazionali a tappe è autorizzata la formazione di squadre miste formate da atlete di nazionalità italiana e/o straniera, la cui società non sia presente al via.
 
-11.4.10 È vietata l’attività nella categoria Cicloturistica e/o Cicloamatoriale.
+11.4.10
+È vietata l’attività nella categoria Cicloturistica e/o Cicloamatoriale.
 
-11.4.11 Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto.
+11.4.11
+Le richieste di autorizzazione per le regioni che ravvisano problematiche per la calda stagione, per i soli residenti, delle gare in mesi più freschi dell’anno, verranno valutate di volta in volta in relazione a quanto pervenuto.
 
-11.4.1 2 Si concede alle donne juniores del 1^ anno, che durante il secondo anno nella cat. donne allieve non abbiano ottenuto più di 3 punti di valorizzazione nelle gare su strada (escluse le prove a cronometro), di gareggiare esclusivamente nelle sole gare regionali su strada (gare a frazioni comprese e prove valide per l’assegnazione di titoli comprese), ad esclusione delle prove uniche di Campionato e prove a cronometro, con la categoria donne allieve, previa autorizzazione del CR di appartenenza, adeguandosi alla regolamentazione della categoria stessa. Al conseguimento di 10 punti di valorizzazione, tali Donne Juniores del 1 ^ anno, non potranno più partecipare a gare della categoria donne allieve e, previo accordo tra le parti (atleti, società e Comitato Regionale) potranno trasferirsi ad altra società nel corso della stagione (solo nel caso in cui la società di appartenenza non svolge attività nella categoria donne juniores).
+11.4.12
+Si concede alle donne juniores del 1^ anno, che durante il secondo anno nella cat. donne allieve non abbiano ottenuto più di 3 punti di valorizzazione nelle gare su strada (escluse le prove a cronometro), di gareggiare esclusivamente nelle sole gare regionali su strada (gare a frazioni comprese e prove valide per l’assegnazione di titoli comprese), ad esclusione delle prove uniche di Campionato e prove a cronometro, con la categoria donne allieve, previa autorizzazione del CR di appartenenza, adeguandosi alla regolamentazione della categoria stessa. Al conseguimento di 10 punti di valorizzazione, tali Donne Juniores del 1 ^ anno, non potranno più partecipare a gare della categoria donne allieve e, previo accordo tra le parti (atleti, società e Comitato Regionale) potranno trasferirsi ad altra società nel corso della stagione (solo nel caso in cui la società di appartenenza non svolge attività nella categoria donne juniores).
 
-11.4.1 3 Partecipazione per residenza:
-- alle competizioni che assegnano titoli individuali nazionali e regionali e nelle manifestazioni riservate alle rappresentative regionali gli atleti, se convocati, partecipano con la rappresentativa della regione di residenza; la discriminante è la residenza dell ’ atleta indipendentemente dall ’ anno in cui si è trasferito.
-- nelle gare di Campionato Regionale dovrà partecipare senza squadra, mentre nelle prove valide come campionato regionale, la partecipazione sarà libera e concorrerà per il titolo;
-- nelle gare di Campionato Regionale la validazione dell’elenco degli iscritti deve essere fatta dalla Struttura Tecnica Regionale.
+11.4.13
+Partecipazione per residenza:
+- alle competizioni che assegnano titoli individuali nazionali, regionali e provinciali e nelle manifestazioni dove è prevista la partecipazione delle rappresentative regionali gli atleti, gareggiano e/o concorrono al titolo in base alla residenza determinata dalla validazione del 1° tesseramento 
+annuale.
 
 ### 11.5 Donne Elite / Donne Under 23
-11.5.1 Il periodo di attività su strada è compreso tra la penultima domenica di febbraio e la quarta domenica di ottobre. L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste. A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà l’ordine di arrivo. Possono correre in gare in linea, criterium e cronometro tutti i giorni della settimana.
+11.5.1 
+Il periodo di attività su strada è compreso tra l’ultimo sabato di febbraio ed il 31 ottobre.
+L’iscrizione degli atleti alle gare deve essere effettuata via on-line con le modalità previste.
+A gara conclusa l’organizzatore perfezionerà l’elenco iscritti sulla base degli effettivi partenti ed inserirà sul sistema informatico l’ordine di arrivo.
+Possono correre in gare in linea, criterium e cronometro tutti i giorni della settimana.
 
-11.5.2 La formazione dei calendari è di competenza della STF - settore Strada.
+11.5.2
+La formazione dei calendari è di competenza della STF - settore Strada.
 
-11.5.3 Le donne Under 23 di primo anno (19 anni) possono svolgere attività internazionale con l'apertura dell'attività su strada sia in squadre di Club che UCI.
+11.5.3
+Le donne Under 23 di primo anno (19 anni) possono svolgere attività internazionale con l'apertura dell'attività su strada sia in squadre di Club che UCI.
 
-11.5.4 Le donne Under 23 di primo anno (19 anni), italiane, tesserate con Squadre Femminili di Club italiane, nonché quelle tesserate con squadre UCI ed incluse nell’organico registrato all’ UCI, hanno la facoltà di partecipare alle gare riservate alle Donne Junior, come previsto all’art. 11.4.10. Quando in Italia è prevista una gara cat. donne Elite/Under 23, le donne Under 23 di 19 anni sono obbligate a gareggiare esclusivamente con le donne Elite/Under 23.
+11.5.4
+Le donne Under 23 di primo anno (19 anni), italiane, tesserate con Squadre Femminili di Club italiane, nonché quelle tesserate con squadre UCI ed incluse nell’organico registrato all’ UCI, hanno la facoltà di partecipare alle gare riservate alle Donne Junior, come previsto all’art. 11.4.10. Quando in Italia è prevista una gara cat. donne Elite/Under 23, le donne Under 23 di 19 anni sono obbligate a gareggiare esclusivamente con le donne Elite/Under 23.
 
-11.5.5 Quando in Italia non è prevista alcuna gara riservata alle Donne Junior/Donne Under 23 (19 anni), queste ultime, anche se hanno superato i 2 5 punti come da art. 11.4.10, comprese le atlete straniere tesserate con società italiane, possono correre in promiscuità con le categorie maschili “Allievi o Juniores”, adeguandosi alla regolamentazione delle categorie. Le atlete under 23 del II° anno (20 anni), comprese le atlete straniere tesserate per società italiane, che a seguito di regolamento particolare di gara, non possono essere iscritte all'eventuale gara in Italia delle Elite/Under 23, possono partecipare alle gare maschili esclusivamente con la categoria "Juniores".
+11.5.5
+Quando in Italia non è prevista alcuna gara riservata alle Donne Junior/Donne Under 23 (19 anni), queste ultime, anche se hanno superato i 2 5 punti come da art. 11.4.10, comprese le atlete straniere tesserate con società italiane, possono correre in promiscuità con le categorie maschili “Allievi o Juniores”, adeguandosi alla regolamentazione delle categorie. Le atlete under 23 del II° anno (20 anni), comprese le atlete straniere tesserate per società italiane, che a seguito di regolamento particolare di gara, non possono essere iscritte all'eventuale gara in Italia delle Elite/Under 23, possono partecipare alle gare maschili esclusivamente con la categoria "Juniores".
 
-11.5.6 Quando in Italia non è prevista alcuna gara loro riservata, le Donne Elite/Under 23 tesserate con Società Italiane di Club e/o UCI, comprese le atlete straniere tesserate con dette Società, possono correre in promiscuità con la categoria maschile “Juniores” adeguandosi alla regolamentazione di questa categoria.
+11.5.6
+Quando in Italia non è prevista alcuna gara loro riservata, le Donne Elite/Under 23 italiane con tessera, comprese le atlete straniere facenti parte di società italiane, possono correre in promiscuità con la categoria maschile “Juniores”.
 
-11.5.7 Quando in Italia è in calendario una sola gara internazionale, che prevede un numero massimo di atlete partenti per squadra, tutte le atlete - tesserate con squadre di Club e/o UCI italiane - che non rientrano in questo numero, possono correre in promiscuità con la categoria maschile “Juniores” adeguandosi alla regolamentazione di questa categoria. Le under 23 di I° anno (19 anni) hanno la facoltà di partecipare alle gare con la categoria Donne Juniores, nel rispetto del precedente punto 11.5.4
+11.5.7
+Quando in Italia è in calendario una sola gara internazionale, che prevede un numero massimo di atlete partenti per squadra, tutte le atlete - tesserate con squadre di Club e/o UCI italiane - che non rientrano in questo numero, possono correre in promiscuità con la categoria maschile “Juniores” adeguandosi alla regolamentazione di questa categoria. Le under 23 di I° anno (19 anni) hanno la facoltà di partecipare alle gare con la categoria Donne Juniores, nel rispetto del precedente punto 11.5.4
 
-11.5.8 Nelle gare nazionali di un giorno possono partecipare squadre composte da un minimo di 4 e con un massimo di 10 atlete. Nelle gare nazionali potranno partecipare un massimo di tre squadre straniere.
+11.5.8
+Nelle gare nazionali di un giorno ed a tappe possono partecipare squadre composte da un minimo di 4 e con un massimo di 10 atlete. 
+Nelle gare nazionali potranno partecipare un massimo di tre squadre straniere.
 
-11.5.9 Le atlete di nazionalità italiana e/o straniera, tesserate con squadre femminili di Club e/o registrate all’UCI, possono partecipare singolarmente alle gare nazionali di un giorno, purché la propria squadra non sia alla partenza.
+11.5.9
+Le atlete di nazionalità italiana e/o straniera, tesserate con squadre femminili di Club e/o registrate all’UCI, possono partecipare singolarmente alle gare nazionali di un giorno, purché la propria squadra non sia alla partenza.
 
-11.5.10 È obbligatorio l’allestimento di una adeguata ed idonea sistemazione logistica, con spogliatoi e docce, nei pressi della zona di ritrovo e dell’arrivo.
+11.5.10
+È obbligatorio l’allestimento di una adeguata ed idonea sistemazione logistica, con spogliatoi e docce, nei pressi della zona di ritrovo e dell’arrivo.
 
-11.5.11 Nelle gare a cronometro a coppie è permessa la formazione di coppie miste di squadre miste.
+11.5.11
+Nelle gare a cronometro a coppie è permessa la formazione di coppie miste di squadre miste.
 
-11.5.12 È vietata l’attività nella categoria Cicloturistica e/o Cicloamatoriale;
+11.5.12
+È vietata l’attività nella categoria Cicloturistica e/o Cicloamatoriale;
 
-11.5.13 Nelle gare donne Elite/under 23 con presenza delle Donne under 23 di 19 anni, deve essere prevista una premiazione per le prime 3 atlete di 19 anni presenti nella classifica generale.
+11.5.13
+Nelle gare donne Elite/under 23 con presenza delle Donne under 23 di 19 anni, deve essere prevista una premiazione per le prime 3 atlete di 19 anni presenti nella classifica generale.
 
-### 11.6 Gare Femminili “Open”– Donne Elite / Donne Under 23 / Donne Juniores
+### 11.6 Gare Femminili “Open” – Donne Elite / Donne Under 23 / Donne Juniores
 Viene confermata la possibilità di organizzare gare open. Le gare verranno individuate, in accordo con i Tecnici Nazionali, verificata la disponibilità degli organizzatori. Nello specifico:
-- gara che prevede la partecipazione promiscua di atlete junior e atlete Elite/Under 23 (massimo 27 anni – nate nel 1996 ).
-- sono escluse le donne Elite/Under 23 straniere con almeno 120 punti nel ranking UCI aggiornato prima dello svolgimento di ogni singola gara (per le italiane viene abolito il limite del punteggio);
+- gara che prevede la partecipazione promiscua di atlete junior e atlete Elite/Under 23 (massimo 27 anni – nate nel 1997).
+- sono escluse le donne Elite/Under 23 straniere con almeno 200 punti nel ranking UCI nella stagione 2024 (per le italiane viene abolito il limite del punteggio);
 - sono previste due classifiche separate;
 - approvazione gara a cura dei CC.RR. competenti;
 - le STR devono preventivamente confrontarsi con i Tecnici Nazionali di settore per la valutazione tecnica dei percorsi;
@@ -760,7 +831,8 @@ Viene confermata la possibilità di organizzare gare open. Le gare verranno indi
 - premio di valorizzazione alle prime 5 classificate di ciascuna categoria;
 - il numero di atlete per ogni squadra è libero;
 - possono partecipare tutte le atlete, sia italiane che straniere, tesserate con squadre femminili di Club e/o registrate all’UCI anche se non inserita nella lista UCI del team.
-- il chilometraggio massimo è fissato: Minimo Massimo Fino al 31 maggio Km 90 Km 100 Dal 1° di giugno fino a fine stagione Km 100 Km 130
+- È vietata la partecipazione di singole atlete e formazioni WWT
+- il chilometraggio massimo è fissato: da minimo 100 km a max 130 km per tutta la stagione.
 - Il rapporto è libero;
 - Quando è prevista una gara “open” le atlete donne Elite/Under 23 sono obbligate a partecipare (ad esclusione di eventuali partecipazioni a gare all’estero);
 - Quando è prevista una gara “open” le atlete donne juniores 1^ anno non sono obbligate a parteciparvi;
@@ -802,7 +874,13 @@ Per la cat. juniores, è facoltà della STF - Settore strada autorizzare l’amm
 
 12.2.4 La cerimonia protocollare di premiazione deve essere effettuata secondo le disposizioni stabilite dall’Organizzazione ed approvate dalla STF – settore Strada.
 
-12.2.5 La società organizzatrice oltre a predisporre le autovetture al seguito, come previsto per le gare nazionali di un giorno (art. 5.1.9) dovrà assicurare l’ospitalità ufficiale a: - Collegio di Giuria - Ispettore Antidoping - Medico Antidoping - rappresentante STF - rappresentante FCI - Commissario Tecnico.
+12.2.5 La società organizzatrice oltre a predisporre le autovetture al seguito, come previsto per le gare nazionali di un giorno (art. 5.1.9) dovrà assicurare l’ospitalità ufficiale a:
+- Collegio di Giuria  in camere singole
+- Ispettore Antidoping
+- Medico Antidoping
+- rappresentante STF
+- rappresentante FCI
+- Commissario Tecnico.
 
 12.2.6 Modalità di partecipazione
 La partecipazione è riservata agli atleti di nazionalità italiana, anche se tesserati all’estero, nel rispetto delle norme emanate dalla F.C.I. Le modalità valide per i Campionati italiani in linea sono le seguenti:
@@ -817,8 +895,8 @@ La partecipazione è riservata agli atleti di nazionalità italiana, anche se te
     
     inoltre: 
     - 2 corridori per C.R. (42), 
-    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 15 aprile 2023 
-    - altri 120 corridori ripartiti tra i CC.RR., in proporzione al numero di residenti al 15 aprile 2023. 
+    - 1 corridore per CC.RR. ogni 100 atleti tesserati al 15 aprile 2024 
+    - altri 120 corridori ripartiti tra i CC.RR., in proporzione al numero di residenti al 15 aprile 2024. 
     - N° 2 corridori tesserati per la società organizzatrice. Nel caso in cui la società organizzatrice non abbia atleti tesserati nella categoria, vengono assegnati ulteriori due atleti al C.R. ove si svolge il Campionato.
 
     I CC.RR. provvederanno ad inviare le iscrizioni alla società organizzatrice secondo le modalità indicate dall’art. 12.2.7.
@@ -835,13 +913,11 @@ La partecipazione è riservata agli atleti di nazionalità italiana, anche se te
 
     Ogni società non può iscrivere più di 6 corridori;
 
-    Per gli atleti appartenenti a squadre continental, è obbligatorio l’inserimento nel ranking federale dal 31 gennaio 2023 per la partecipazione al Campionato Italiano
-
-    La STF - Settore Strada stabilirà in proporzione al numero dei tesserati al 15 aprile 2023 la ripartizione del numero di atleti ammessi per CR, fino ad un massimo di 180 iscritti.
+    La STF - Settore Strada stabilirà in proporzione al numero dei tesserati al 15 aprile 2024 la ripartizione del numero di atleti ammessi per CR, fino ad un massimo di 180 iscritti.
 
 - Categoria ELITE s.c.
 
-    È data opportunità di partecipare al Campionato Italiano Prof/Open, con obbligo di avere ottenuto 5 punti FCI e l’iscrizione al ranking federale dal 31 gennaio 2023. Le norme di partecipazione saranno oggetto di specifico comunicato.
+    È data opportunità di partecipare al Campionato Italiano Prof/Open, con obbligo di avere ottenuto 5 punti FCI e l’iscrizione al ranking federale dal 31 gennaio 2024. Le norme di partecipazione saranno oggetto di specifico comunicato.
 
 - Categoria DONNE JUNIOR
 
@@ -865,7 +941,7 @@ La partecipazione è riservata agli atleti di nazionalità italiana, anche se te
 
 - Atleti italiani tesserati all’estero
 
-    Gli atleti italiani tesserati all’estero, con le modalità previste dal RTAA, interessati alla partecipazione ai Campionati Italiani, dovranno far pervenire alla STF settore strada, entro il 5 giugno 2023 , la richiesta di partecipazione al Campionato Italiano, allegando i risultati ottenuti nel corso della stagione. La STF settore strada valuterà le richieste pervenute e comunicherà l’eventuale ammissione al Campionato Italiano. Detti atleti dovranno essere in regola con gli adempimenti previsti dalla normativa FCI “Tutela della salute”.
+    Gli atleti italiani tesserati all’estero, con le modalità previste dal RTAA, interessati alla partecipazione ai Campionati Italiani, dovranno far pervenire alla STF settore strada, entro il 5 giugno 2024, la richiesta di partecipazione al Campionato Italiano, allegando i risultati ottenuti nel corso della stagione. La STF settore strada valuterà le richieste pervenute e comunicherà l’eventuale ammissione al Campionato Italiano. Detti atleti dovranno essere in regola con gli adempimenti previsti dalla normativa FCI “Tutela della salute”.
 
 12.2.7 Iscrizioni
 
@@ -874,7 +950,7 @@ Per tutte le prove di Campionato Italiano su strada, i CC.RR (o le società ove 
 ### 12.3 Campionati Italiani a cronometro
 Le prove di Campionato devono svolgersi possibilmente su un percorso unico, che può avere la partenza e l’arrivo nella stessa località.
 
-12.3.1 Per tutte le categorie è obbligatorio il servizio di cronometraggio F.I.Cr.
+12.3.1 Per tutte le categorie è obbligatorio il servizio di cronometraggio qualificato
 
 12.3.2 L’ammiraglia al seguito dell’atleta deve ospitare l’eventuale Commissario Ispettore.
 
@@ -891,16 +967,27 @@ Le prove di Campionato devono svolgersi possibilmente su un percorso unico, che 
 Le modalità di partecipazione saranno emanate dai CC.RR. prima dell’inizio dell’attività.
 
 ### 13.1 Prova Unica di Campionato Regionale
-Una manifestazione si definisce prova unica di Campionato Regionale quando la partecipazione è riservata a corridori tesserati in società della medesima regione (fatto salvo quanto previsto dall’art. 11. 1 .7 per la cat. Juniores). Le tassa ed i premi previsti sono quelli stabiliti dalla tabella (campionati regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per i Campionati Regionali. Anche gli atleti stranieri, tesserati alla FCI per società della regione, concorrono all’assegnazione del titolo regionale. Non possono partecipare gli atleti con categoria REG (Registrazione Atleta Estero). Tale gara non si può svolgere se in Italia è prevista una gara internazionale della rispettiva categoria.
+Elite Under23 M/F e Juniores M/F: una manifestazione si definisce prova unica di Campionato Regionale quando la partecipazione è riservata a corridori residenti nella regione che indice la prova.
+Anche gli atleti stranieri, tesserati alla FCI residenti nella regione che indice la prova, concorrono all’assegnazione del titolo regionale.
+Non possono partecipare gli atleti con categoria REG (Registrazione Atleta Estero).
+Le tassa ed i premi (premi facoltativi per le categorie juniores M/F) previsti sono quelli stabiliti dalla tabella (campionati regionali) del prospetto “Tasse e premi”.
+I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per i Campionati Regionali.
 
 ### 13.2 Gara valida per l'assegnazione del titolo regionale
-Detta manifestazione è una gara a partecipazione libera, aperta anche ai tesserati di società di altre regioni (compresi i corridori stranieri, tesserati alla FCI per società italiane). Le tasse ed i premi previsti sono quelli stabiliti dalla tabella (gare regionali) del prospetto “Tasse e premi”. I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per una gara regionale. Gli atleti italiani e stranieri tesserati per società extra regionali, rispetto a quella in cui é indetta la gara, non concorrono all’assegnazione del titolo regionale. (fatto salvo quanto previsto dall’art. 1 1 .1.7 per la cat. Juniores). Anche gli atleti stranieri, tesserati alla FCI per società della regione, concorrono all’assegnazione del titolo regionale. Non concorrono al titolo gli atleti con categoria REG (Registrazione Atleta Estero). Tale gara non si può svolgere se in Italia è prevista una gara internazionale della rispettiva categoria.
+Elite Under23 M/F e Juniores M/F: detta manifestazione è una gara a partecipazione libera, aperta anche ai tesserati residenti in altre regioni (compresi i corridori stranieri, tesserati alla FCI per società italiane) e concorrono al titolo esclusivamente gli atleti residenti nella regione che indice la prova.
+Anche gli atleti stranieri, tesserati alla FCI residenti nella regione che indice la prova, concorrono all’assegnazione del titolo regionale.
+Gli atleti italiani e stranieri residenti extra regionali, rispetto a quella in cui é indetta la gara, non concorrono all’assegnazione del titolo regionale. Non concorrono al titolo gli atleti con categoria REG (Registrazione Atleta Estero). 
+Le tasse ed i premi (premi facoltativi per le categorie juniores M/F) se previsti sono quelli stabiliti dalla tabella (gare regionali) del prospetto “Tasse e premi”.
+I punteggi di valorizzazione assegnati ai primi 5 arrivati sono quelli previsti per una gara regionale.
 
 ### 13.3 Prove di campionato interregionale
-Le eventuali prove di Campionati Interregionali possono essere considerate come gare rientranti sia nel punto 13.1 che nel punto 13.2, purché venga specificato nel programma di gara. Anche gli atleti stranieri, tesserati alla FCI per società delle regioni interessate, concorrono all’assegnazione del titolo regionale. Non concorrono al titolo gli atleti con categoria REG (Registrazione Atleta Estero). Tale gara non si può svolgere se in Italia è prevista una gara internazionale della rispettiva categoria.
+Le eventuali prove di Campionati Interregionali possono essere considerate come gare rientranti sia nel punto 13.1 che nel punto 13.2, purché venga specificato nel programma di gara, con le stesse condizioni degli articoli citati.
 
 ## 14.0 CAMPIONATI PROVINCIALI SU STRADA
-I titoli di campione provinciale si disputano per le stesse categorie e con le stesse modalità previste per le gare valide per l’assegnazione del titolo regionale. Anche gli atleti stranieri, tesserati alla FCI per società della regione ed appartenenti alla provincia per cui è in palio il titolo, concorrono all’assegnazione del titolo provinciale. (fatto salvo quanto previsto dall’art. 11.1.7 per la cat. Juniores). Non concorrono al titolo gli atleti con categoria REG (Registrazione Atleta Estero)
+Elite Under23 M/F e Juniores M/F: concorrono al titolo esclusivamente gli atleti residenti nella provincia per cui è valido il campionato provinciale.
+Anche gli atleti stranieri, tesserati alla FCI residenti nella provincia, concorrono all’assegnazione del titolo provinciale.
+Gli atleti italiani e stranieri residenti extra provinciali, rispetto a quella in cui é indetta la gara, non concorrono all’assegnazione del titolo provinciale.
+Non concorrono al titolo gli atleti con categoria REG (Registrazione Atleta Estero).
 
 ## 15.0 CORRIDORI STRANIERI TESSERATI CON LA FCI
 
@@ -1009,19 +1096,26 @@ Detta atleta, nel corso della stagione, non potrà essere sostituita. Le modalit
 ## 17.0 NORME GENERALI
 
 ### 17.1 Premi e Tasse
-In tutte le manifestazioni regionali, i premi di gara previsti dalle tabelle federali devono essere liquidati sul posto al termine della manifestazione. Per le gare nazionali ed internazionali, in alternativa al pagamento sul posto, è prevista l’opportunità di effettuare il pagamento dei premi per il tramite dell’ACCPI, che provvederà alla suddivisione dei premi ed al pagamento del premio all'atleta e/o delegato premi solo a mezzo bonifico bancario. La Distinta Premi FCI, debitamente firmata dai corridori, deve essere consegnata al Presidente del Collegio di Giuria, entro 60 minuti dall’esposizione dell’ordine di arrivo. Superato tale termine, sarà cura degli organizzatori inviare la Distinta Premi al Giudice Sportivo competente. Si rinvia alle disposizioni contenute nel prospetto “Premi e Tasse”
+In tutte le manifestazioni regionali, i premi di gara previsti dalle tabelle federali possono essere liquidati sul posto al termine della manifestazione. Per le gare nazionali ed internazionali, in alternativa al pagamento sul posto, è prevista l’opportunità di effettuare il pagamento dei premi per il tramite dell’ACCPI, che provvederà alla suddivisione dei premi ed al pagamento del premio all'atleta e/o delegato premi solo a mezzo bonifico bancario. La Distinta Premi FCI, debitamente firmata dai corridori, deve essere consegnata al Presidente del Collegio di Giuria, entro 60 minuti dall’esposizione dell’ordine di arrivo. Superato tale termine, sarà cura degli organizzatori inviare la Distinta Premi al Giudice Sportivo competente. Si rinvia alle disposizioni contenute nel prospetto “Premi e Tasse”
 
-### 17.2 Campioni Regionali - Italiani – Europei - Mondiali
-I campioni mondiali, italiani, europei M/F (non obbligatoria), di qualsiasi specialità, sono obbligati ad indossare la relativa maglia nelle prove di cui sono titolari nel rispetto del regolamento UCI. Su tale maglia potranno figurare soltanto le iscrizioni pubblicitarie fissate in materia dalle norme F.C.I. e U.C.I. I detentori del titolo regionale M/F hanno l’obbligo di indossare in corsa la maglia di campione in tutte le gare regionali che si disputano nella regione in cui è affiliata la propria Società, anche in gare approvate per più categorie. È facoltativo indossare la stessa maglia nelle gare del territorio nazionale. Quando si partecipa con la rappresentativa regionale è obbligatorio indossare la maglia della propria Regione. I detentori del titolo provinciale M/F hanno facoltà di indossare la maglia di campione provinciale, unicamente nella regione in cui è affiliata la società di appartenenza, anche in gare approvate per più categorie.
+### 17.2 Campioni Regionali – Provinciali - Italiani – Europei - Mondiali
+I campioni mondiali, italiani, europei M/F (non obbligatoria), di qualsiasi specialità, sono obbligati ad indossare la relativa maglia nelle prove di cui sono titolari nel rispetto del regolamento UCI. Su tale maglia potranno figurare soltanto le iscrizioni pubblicitarie fissate in materia dalle norme F.C.I. e U.C.I. 
+
+ELITE UNDER23 M/F e JUNIORES M/F: i detentori del titolo regionale M/F hanno l’obbligo di indossare in corsa la maglia di campione in tutte le gare regionali che si disputano nella regione in cui è residente, anche in gare approvate per più categorie. 
+È facoltativo indossare la stessa maglia nelle gare del territorio nazionale. Quando si partecipa con la rappresentativa regionale è obbligatorio indossare la maglia della propria Regione.
+Il campione Italiano Under23 può indossare la relativa maglia anche nelle gare 1.12 e 2.12.
+I detentori del titolo provinciale M/F hanno facoltà di indossare la maglia di campione provinciale, unicamente nella regione in cui, sono residenti, anche in gare approvate per più categorie
 
 17.2.1 Le maglie di Campione Italiano devono essere indossate e devono corrispondere a quanto previsto dal R.T.A.A. articoli 67 e 68, Allegato al RTAA n. 10 e dal Regolamento UCI.
 
 17.2.2 Nelle gare regionali e nazionali, si da l’opportunità agli atleti stranieri Campioni Nazionali di indossare la relativa maglia, nelle specialità in cui detengono il titolo, sempreché sulla stessa non compaiano scritte difformi da quelle della maglia sociale.
 
+17.2.3 Nelle gare regionali e nazionali e nelle prove di cronometro a squadre i detentori della maglia di campione italiano di cronometro a squadre hanno facoltà di indossare la relativa maglia.
+
 
 ### 17.3 Permessi Temporanei Individuali
 
-Permessi di gara temporanei, possono essere rilasciati ad atleti/e stranieri/e cat. Juniores M/F, Under 23 ed Elite (età massima 25 anni – nati nel 1998 ) che soggiornano in Italia per massimo di 4 gare nel corso dell’anno, per atleta singolo. Gli atleti gareggeranno solo in gare regionali, a titolo individuale, indossando la maglia con i colori sociali del club di appartenenza della propria nazione. Tali permessi, devono essere rilasciati dalla STF - Settore strada, su richiesta della Federazione straniera di appartenenza. Gli atleti autorizzati dovranno inoltre corrispondere agli organizzatori, al momento della verifica licenze, la quota di iscrizione di € 25 per costi organizzativi.
+Permessi di gara temporanei, possono essere rilasciati ad atleti/e stranieri/e cat. Juniores M/F, Under 23 ed Elite (età massima 25 anni – nati nel 1999) che soggiornano in Italia per massimo di 4 gare nel corso dell’anno, per atleta singolo. Gli atleti gareggeranno solo in gare regionali, a titolo individuale, indossando la maglia con i colori sociali del club di appartenenza della propria nazione. Tali permessi, devono essere rilasciati dalla STF - Settore strada, su richiesta della Federazione straniera di appartenenza. Gli atleti autorizzati dovranno inoltre corrispondere agli organizzatori, al momento della verifica licenze, la quota di iscrizione di € 25 per costi organizzativi.
 
 ### 17.4 Visti d'ingresso Gara – Squadre ed Atleti Extracomunitari
 
@@ -1143,10 +1237,10 @@ Viene data la possibilità ai CCRR di creare ed affiliare società che permettan
 
 ## 32.0 ATLETI DI NAZIONALITA' ITALIANA IN POSSESSO DI LICENZA ESTERA
 Nel caso in cui un atleta di nazionalità italiana non ha la residenza in Italia, sulla base di quanto previsto dal Regolamento UCI, si ritiene valida la tessera rilasciata dalla Federazione Estera ove ha l’atleta la residenza. L’atleta dovrà presentare alla STF strada la seguente documentazione:
-- copia della licenza estera 2023;
+- copia della licenza estera 2024;
 - autorizzazione della Federazione estera a partecipare a gare in Italia;
 - essere in regola con quanto previsto al proposito dalle Norme della tutela della salute FCI;
-- nel caso di tesseramento alla FCI nel 202 2 , nulla osta da parte della società italiana come previsto dal RTAA;
+- nel caso di tesseramento alla FCI nel 2023, nulla osta da parte della società italiana come previsto dal RTAA;
 
 La STF rilascerà autorizzazione a partecipare a gare regionali in Italia.
 
@@ -1154,12 +1248,39 @@ La STF rilascerà autorizzazione a partecipare a gare regionali in Italia.
 Per quanto non espressamente previsto nelle presenti Norme Attuative, vige il RTAA della FCI e, per quanto applicabile, il Regolamento UCI.
 
 
-Milano, 11 Agosto 2022
+Milano, 14 Novembre 2023
 
 
 
+# CHANGELOG 2024
+- 1.2.3/5/6 cronometristi FICr -> qualificati
+- 1.4.3/3.1.4/3.1.4 Montepremi. Tabella va inserita nel regolamento sul fattore k.
+- 4.1 Classificazione. Aggiunte donne open (DJ, DU23, DE)
+- 4.2 Partecipazione. Non più UEC.
+- 4.4 Età max. autisti: 75 anni auto, 72 anni moto.
+- 4.5 Partecipazione JU gare reigonali: max 10 per team eccetto organizzatore.
+- 5.1.1 Partecipazione DJ/DU23/DJ gare nazionali: max 10 per team.
+- 5.1.4/6/6.1.4 Verifica licenze/riunione. Solo tecnici, non più dirigente.
+- 5.1.9/6.1.7 Eventualmente tettuccio apribile anche per il componente; cronometraggio FICr -> qualificato; Età max. autisti: 75 anni auto, 72 anni moto.
+- 5.1.12/6.1.16/12.2.5 Giudici di Gara. Vitto e alloggio a carico della soc. org., alloggio in singola.
+- 6.1.1 Partecipazione. Specificato che è come da reg. INT; DJ/DU23/DJ gare nazionali a tappe: max 10 per team.
+- 7.0 Rappresentativa regionale per residenza.
+- 11.1.1/3/5/6/7 Attività e tesseramento JU.
+- 11.1.2 ABROGATO (facoltà CCRR di stabilire partecipanti per società)
+- 11.1.8 Miste Interregionali
+- 11.2.1/4/9 Attività EL/U23, abrogato numero massimo gare, tesseramento.
+- 11.4.3/4/8/13 Attività DJ
+- 11.5.1/6/8 Attività DE
+- 11.6 Gare open: no atlete/team WWT, chilometraggio
+- 12.2.6 Partecipazioni Camp ITA, U23 non più ranking federale per Continental
+- 12.3.1 cronometraggio FICr -> qualificato
+- 13.1/2/3 prova unica/gara valida/interregionale: non ammessi/non concorrono i non residenti nella regione e i REG/una delle due.
+- 13.4 campionati provinciali: titolo campione provinciale per residenza 
+- 17.2 Obbligo di indossare la maglia nella regione di residenza, anche se la gara è apera a più categorie; non va indossato quando si è con rappresentativa. CampITA U23 può anche nelle 1.12 e 2.12.
+- 17.2.3 Facoltà agli atleti CIta crono squadre di indossare la maglia nelle crono squadre
 
-# CHANGELOG wrt 2022
+
+# CHANGELOG 2023
 - 1.2.1 Linea int: vige UCI
 - 1.4.3 Montepresi su tabella fattore k
 - 2.1 INT: vige UCI
