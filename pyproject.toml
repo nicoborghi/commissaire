@@ -12,4 +12,8 @@ exclude = ["./streamlit_webrtc/frontend/[!build]*"]
 [tool.poetry.dependencies]
 python = ">=3.8,<4,!=3.9.7"
 streamlit = ">=0.84.1"
-streamlit_tags ">=1.2.8"
+streamlit_tags = ">=1.2.8"  # Added missing '='
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
