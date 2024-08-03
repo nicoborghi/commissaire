@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "commissaire"
+version = "0.1.0"
+description = ""
+authors = ["Nicola Borghi <nicoborghi@outlook.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nicoborghi/commissaire"
+include = ["./streamlit_webrtc/frontend/build/**/*"]
+exclude = ["./streamlit_webrtc/frontend/[!build]*"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<4,!=3.9.7"
+streamlit = ">=0.84.1"
+streamlit_tags ">=1.2.8"

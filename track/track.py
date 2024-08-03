@@ -7,8 +7,6 @@ import base64
 import os 
 from datetime import datetime
 from streamlit_tags import st_tags_sidebar
-from st_copy_to_clipboard import st_copy_to_clipboard
-from datetime import datetime
 
 # -------------------------- § 2 200 metri cronometrati 6 
 # § 3 Velocità 6 
@@ -796,7 +794,7 @@ def pursuit_race(df_race, event, cat, do_stage, do_class):
     glob_sort_name = 'sorting_order_'+event.replace(" ", "")+cat
 
 
-    # Set up the startlist
+    # Startlist section
     if not do_class:
 
         st.session_state[glob_sort_name] = st.sidebar.text_input(name_pursuit_input, value=st.session_state.get(glob_sort_name, ""), help="e.g., `1/2-3/4-5/6-7`")
@@ -812,6 +810,7 @@ def pursuit_race(df_race, event, cat, do_stage, do_class):
           
         return df_race, idx_end_batt, idx_end_team
 
+    # Ranking section
     else:
         df_race.insert(len(df_race.columns), "Tempo", None)
 
